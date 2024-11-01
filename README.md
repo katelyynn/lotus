@@ -18,6 +18,10 @@ in these common instances i base this on the most popular usage. for example, in
 
 in the future, it may be possible to set per-user corrections within the projects (bleh and bwaa) which integrate this correction system.
 
+## where did past requests come from?
+
+before lotus was created, corrections were hosted in [bleh](https://github.com/katelyynn/bleh/issues?q=label%3Asystem%3Acorrections+is%3Aclosed) - you can find past correction requests here.
+
 ---
 
 kate 2024-2025
