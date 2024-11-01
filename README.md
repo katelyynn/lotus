@@ -12,6 +12,12 @@ however unfortunately it takes them a *long* time, trust me i would know. as a s
 
 simply [create a new issue right here](https://github.com/katelyynn/lotus/issues/new/choose) :3
 
+## what if 2 or more share a same name?
+
+in these common instances i base this on the most popular usage. for example, in the silly case of [funeral](https://www.last.fm/music/Funeral), the top tracks very obviously match the Spotify page of [*this* funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd?si=LpV8APuLRmClhZ5A98JPQQ) (despite the vocal minority who shout about the other *Funeral*). i believe this is the best workaround to appeal to the majority until last.fm can separate these pages themselves.
+
+in the future, it may be possible to set per-user corrections within the projects (bleh and bwaa) which integrate this correction system.
+
 ---
 
 kate 2024-2025
