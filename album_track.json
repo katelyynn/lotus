@@ -1,5 +1,5 @@
 {
-    "version": "2024.1101.1",
+    "version": "2024.1105",
 
     "quadeca": {
         "BORN YESTERDAY": "born yesterday",
@@ -60,7 +60,13 @@
     },
     "tyler, the creator": {
         "What A Day": "WHAT A DAY",
-        "Sorry Not Sorry": "SORRY NOT SORRY"
+        "Sorry Not Sorry": "SORRY NOT SORRY",
+
+        "Chromakopia": "CHROMAKOPIA",
+        "ST. CHROMA": "St. Chroma",
+        "NOID": "Noid",
+        "DARLING, I": "Darling, I",
+        "THOUGHT I WAS DEAD": "Thought I Was Dead"
     },
     "quinn": {
         "Quinn": "quinn"
