@@ -1,5 +1,5 @@
 {
-    "version": "2024.1111",
+    "version": "2024.1113",
 
     "quadeca": {
         "BORN YESTERDAY": "born yesterday",
@@ -43,7 +43,7 @@
     },
     "future": {
         "OUT OF MY HANDS": "Out Of My Hands",
-        "NIGHTS LIKE THIS": "Night Like This",
+        "NIGHTS LIKE THIS": "Nights Like This",
         "BEAT IT": "Beat It",
         "ONE BIG FAMILY": "One Big Family",
         "YOUNG METRO": "Young Metro",
@@ -155,5 +155,16 @@
         "MORE CHAOS": "more chaos",
         "Leather Jacket": "leather jacket",
         "Mewtwo": "mewtwo"
+    },
+    "beabadoobee": {
+        "take a bite": "Take A Bite",
+        "real man": "Real Man",
+        "tie my shoes": "Tie My Shoes",
+        "ever seen": "Ever Seen",
+        "A CRUEL AFFAIR": "A Cruel Affair",
+        "post": "Post",
+        "everything i want": "Everything I Want",
+        "the man who left too soon": "The Man Who Left Too Soon",
+        "this is how it went": "This Is How It Went"
     }
 }
