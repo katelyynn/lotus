@@ -1,5 +1,5 @@
 {
-    "version": "2024.1210",
+    "version": "2024.1215",
 
     "quadeca": {
         "BORN YESTERDAY": "born yesterday",
@@ -182,5 +182,11 @@
         "Death by a Thousand Cuts": "Death By A Thousand Cuts",
         "You Need to Calm Down": "You Need To Calm Down",
         "All of the Girls You Loved Before": "All Of The Girls You Loved Before"
+    },
+    "bladee": {
+        "Drama (feat. Charli XCX)": "Drama (feat. Charli xcx)"
+    },
+    "100 gecs": {
+        "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     }
 }
