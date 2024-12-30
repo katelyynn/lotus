@@ -1,5 +1,5 @@
 {
-    "version": "2024.1216",
+    "version": "2024.1230",
 
     "quadeca": {
         "BORN YESTERDAY": "born yesterday",
@@ -203,5 +203,8 @@
     },
     "dc the don": {
         "ReBIRTH": "REBIRTH"
+    },
+    "yui horie": {
+        "Silky Heart": "silky heart"
     }
 }
