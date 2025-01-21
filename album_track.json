@@ -1,5 +1,5 @@
 {
-    "version": "2025.0118",
+    "version": "2025.0121",
 
     "quadeca": {
         "BORN YESTERDAY": "born yesterday",
@@ -165,7 +165,8 @@
         "Soon": "soon"
     },
     "jpegmafia": {
-        "Are you happy?": "ARE YOU HAPPY?"
+        "Are you happy?": "ARE YOU HAPPY?",
+        "I SCREAM THIS IN THE MIRROR BEFORE I INTERACT WITH ANYONE": "i scream this in the mirror before i interact with anyone"
     },
     "ken carson": {
         "Delusional": "delusional",
