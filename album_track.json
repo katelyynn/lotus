@@ -1,20 +1,32 @@
 {
-    "version": "2025.0124",
+    "version": "2025.0129",
 
-    "quadeca": {
-        "BORN YESTERDAY": "born yesterday",
-        "Tell Me A Joke": "tell me a joke",
-        "Gone Gone": "gone gone",
-        "Guess Who?": "GUESS WHO?",
-        "UNDER My Skin": "UNDER MY SKIN",
-        "being yourself": "BEING YOURSELF",
-        "I Make It Look Effortless": "I MAKE IT LOOK EFFORTLESS",
-        "Scrapyard": "SCRAPYARD",
-        "i didn't mean to haunt you": "I Didn't Mean To Haunt You",
-        "Scrapyard II - Single": "SCRAPYARD II - Single"
+    "2hollis": {
+        "TEENAGE SOLDIER": "teenage soldier"
     },
-    "yeule": {
-        "Sulky Baby": "sulky baby"
+    "21 Savage": {
+        "Savage Mode II": "SAVAGE MODE II",
+        "Pop Ur Shit": "pop ur shit"
+    },
+    "100 gecs": {
+        "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
+    },
+    "beabadoobee": {
+        "take a bite": "Take A Bite",
+        "real man": "Real Man",
+        "tie my shoes": "Tie My Shoes",
+        "ever seen": "Ever Seen",
+        "A CRUEL AFFAIR": "A Cruel Affair",
+        "post": "Post",
+        "everything i want": "Everything I Want",
+        "the man who left too soon": "The Man Who Left Too Soon",
+        "this is how it went": "This Is How It Went"
+    },
+    "Bladee": {
+        "Drama (feat. Charli XCX)": "Drama (feat. Charli xcx)",
+
+        "COLD VISIONS": "Cold Visions",
+        "OTHERSIDE (FeaT. SICKBOYRARI)": "OTHERSIDE (feat. Sickboyrari)"
     },
     "brakence": {
         "Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)": "drank 3 of my parents' craft beers to make eye contact with you (feat. login)",
@@ -22,27 +34,25 @@
         "Introvert": "introvert",
         "Hypochondriac (Demo)": "hypochondriac (demo)"
     },
-    "young thug": {
-        "Pick up the Phone": "pick up the phone"
+    "Charli xcx": {
+        "talk talk featuring troye sivan": "Talk talk featuring Troye Sivan",
+        "guess featuring billie eilish": "Guess featuring billie eilish"
     },
-    "nirvana": {
-        "Tourette's - 1992/Live at Reading": "tourette's - 1992/Live at Reading",
-        "Tourette's (Alternative Mix)": "tourette's (Alternative Mix)",
-        "Tourette's (2013 Mix)": "tourette's (2013 Mix)",
-        "Tourette's - 2013 Mix": "tourette's - 2013 Mix",
-        "Tourette's (Demo / Instrumental)": "tourette's (Demo / Instrumental)",
-        "Tourette's - Demo / Instrumental": "tourette's - Demo / Instrumental"
+    "DC The Don": {
+        "ReBIRTH": "REBIRTH"
     },
-    "julie": {
-        "April’s-Bloom": "april’s-bloom",
-        "Pushing Daises": "pushing daises",
-        "Starjump / Kit": "starjump/kit"
+    "Denzel Curry": {
+        "King of the Mischievous South": "KING OF THE MISCHIEVOUS SOUTH",
+        "cole pImp (with ty dolla $ign & juicy J)": "COLE PIMP (with Ty Dolla $ign & Juicy J)",
+        "sked (with kenny Mason & project pat)": "SKED (with Kenny Mason & Project Pat)",
+        "black FlAG freestyle (with that mexican ot)": "BLACK FLAG FREESTYLE (with That Mexican OT)"
     },
-    "21 savage": {
-        "Savage Mode II": "SAVAGE MODE II",
-        "Pop Ur Shit": "pop ur shit"
+    "ericdoa": {
+        "Search & Destroy": "search & destroy",
+        "Song for when the bar closes": "song for when the bar closes",
+        "Throw it up": "throw it up"
     },
-    "future": {
+    "Future": {
         "OUT OF MY HANDS": "Out Of My Hands",
         "NIGHTS LIKE THIS": "Nights Like This",
         "BEAT IT": "Beat It",
@@ -58,21 +68,6 @@
         "AIN'T NO LOVE": "Ain't No Love",
         "EVERYDAY HUSTLE": "Everyday Hustle",
         "SEEN IT ALL": "Seen it All"
-    },
-    "tyler, the creator": {
-        "What A Day": "WHAT A DAY",
-        "Sorry Not Sorry": "SORRY NOT SORRY",
-
-        "Chromakopia": "CHROMAKOPIA",
-        "ST. CHROMA": "St. Chroma",
-        "NOID": "Noid",
-        "DARLING, I": "Darling, I",
-        "THOUGHT I WAS DEAD": "Thought I Was Dead",
-        "ST. CHROMA (feat. Daniel Caesar)": "St. Chroma (feat. Daniel Caesar)",
-        "STICKY (feat. GloRilla, Sexyy Red & Lil Wayne)": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)"
-    },
-    "quinn": {
-        "Quinn": "quinn"
     },
     "glaive": {
         "Huh": "huh",
@@ -97,7 +92,7 @@
         "Nobodys fault / Accept my own": "Nobodys Fault / Accept My Own",
         "by birthright": "By Birthright"
     },
-    "juice wrld": {
+    "Juice WRLD": {
         "Off the rip": "Off The Rip",
         "lace it (with eminem & benny blanco)": "Lace It (with Eminem & benny blanco)",
         "Run": "RUN",
@@ -115,41 +110,24 @@
         "Hemotions (Feat. Ty Dolla $ign)": "HeMotions (feat. Ty Dolla $ign)",
         "Wandered to LA (with Justin Bieber)": "Wandered To LA (with Justin Bieber)"
     },
-    "travis scott": {
-        "Days Before Rodeo": "DAYS BEFORE RODEO",
-        "Mamacita (Feat. Rich Homie Quan & Young Thug)": "Mamacita (feat. Rich Homie Quan & Young Thug)",
-        "Basement Freestyle (Live)": "BASEMENT FREESTYLE (Live)",
-        "Mamacita (live)": "MAMACITA (Live)",
-        "Astroworld [Explicit]": "ASTROWORLD [Explicit]",
-        "4x4": "4X4"
+    "JPEGMAFIA": {
+        "Are you happy?": "ARE YOU HAPPY?",
+        "I SCREAM THIS IN THE MIRROR BEFORE I INTERACT WITH ANYONE": "i scream this in the mirror before i interact with anyone"
     },
-    "yumi": {
-        "Dance": "DANCE"
+    "julie": {
+        "April’s-Bloom": "april’s-bloom",
+        "Pushing Daises": "pushing daises",
+        "Starjump / Kit": "starjump/kit"
     },
-    "ericdoa": {
-        "Search & Destroy": "search & destroy",
-        "Song for when the bar closes": "song for when the bar closes",
-        "Throw it up": "throw it up"
+    "Ken Carson": {
+        "Delusional": "delusional",
+        "Overseas": "overseas",
+        "MORE CHAOS": "more chaos",
+        "Leather Jacket": "leather jacket",
+        "Mewtwo": "mewtwo"
     },
-    "playboi carti": {
-        "All Red": "ALL RED",
-        "Music": "MUSIC"
-    },
-    "2hollis": {
-        "TEENAGE SOLDIER": "teenage soldier"
-    },
-    "denzel curry": {
-        "King of the Mischievous South": "KING OF THE MISCHIEVOUS SOUTH",
-        "cole pImp (with ty dolla $ign & juicy J)": "COLE PIMP (with Ty Dolla $ign & Juicy J)",
-        "sked (with kenny Mason & project pat)": "SKED (with Kenny Mason & Project Pat)",
-        "black FlAG freestyle (with that mexican ot)": "BLACK FLAG FREESTYLE (with That Mexican OT)"
-    },
-    "olivia rodrigo": {
-        "Guts": "GUTS"
-    },
-    "charli xcx": {
-        "talk talk featuring troye sivan": "Talk talk featuring Troye Sivan",
-        "guess featuring billie eilish": "Guess featuring billie eilish"
+    "m1v": {
+        "revolution revolution": "revolution Revolution"
     },
     "my bloody valentine": {
         "Loveless": "loveless",
@@ -165,52 +143,73 @@
         "What You Want": "what you want",
         "Soon": "soon"
     },
-    "jpegmafia": {
-        "Are you happy?": "ARE YOU HAPPY?",
-        "I SCREAM THIS IN THE MIRROR BEFORE I INTERACT WITH ANYONE": "i scream this in the mirror before i interact with anyone"
+    "nirvana": {
+        "Tourette's - 1992/Live at Reading": "tourette's - 1992/Live at Reading",
+        "Tourette's (Alternative Mix)": "tourette's (Alternative Mix)",
+        "Tourette's (2013 Mix)": "tourette's (2013 Mix)",
+        "Tourette's - 2013 Mix": "tourette's - 2013 Mix",
+        "Tourette's (Demo / Instrumental)": "tourette's (Demo / Instrumental)",
+        "Tourette's - Demo / Instrumental": "tourette's - Demo / Instrumental"
     },
-    "ken carson": {
-        "Delusional": "delusional",
-        "Overseas": "overseas",
-        "MORE CHAOS": "more chaos",
-        "Leather Jacket": "leather jacket",
-        "Mewtwo": "mewtwo"
+    "Olivia Rodrigo": {
+        "Guts": "GUTS"
     },
-    "beabadoobee": {
-        "take a bite": "Take A Bite",
-        "real man": "Real Man",
-        "tie my shoes": "Tie My Shoes",
-        "ever seen": "Ever Seen",
-        "A CRUEL AFFAIR": "A Cruel Affair",
-        "post": "Post",
-        "everything i want": "Everything I Want",
-        "the man who left too soon": "The Man Who Left Too Soon",
-        "this is how it went": "This Is How It Went"
+    "Playboi Carti": {
+        "All Red": "ALL RED",
+        "Music": "MUSIC"
     },
-    "m1v": {
-        "revolution revolution": "revolution Revolution"
+    "Quadeca": {
+        "BORN YESTERDAY": "born yesterday",
+        "Tell Me A Joke": "tell me a joke",
+        "Gone Gone": "gone gone",
+        "Guess Who?": "GUESS WHO?",
+        "UNDER My Skin": "UNDER MY SKIN",
+        "being yourself": "BEING YOURSELF",
+        "I Make It Look Effortless": "I MAKE IT LOOK EFFORTLESS",
+        "Scrapyard": "SCRAPYARD",
+        "i didn't mean to haunt you": "I Didn't Mean To Haunt You",
+        "Scrapyard II - Single": "SCRAPYARD II - Single"
     },
-    "taylor swift": {
+    "quinn": {
+        "Quinn": "quinn"
+    },
+    "Taylor Swift": {
         "Reputation": "reputation",
-
         "Miss Americana & the Heartbreak Prince": "Miss Americana & The Heartbreak Prince",
         "Death by a Thousand Cuts": "Death By A Thousand Cuts",
         "You Need to Calm Down": "You Need To Calm Down",
         "All of the Girls You Loved Before": "All Of The Girls You Loved Before"
+    },    
+    "Travis Scott": {
+        "Days Before Rodeo": "DAYS BEFORE RODEO",
+        "Mamacita (Feat. Rich Homie Quan & Young Thug)": "Mamacita (feat. Rich Homie Quan & Young Thug)",
+        "Basement Freestyle (Live)": "BASEMENT FREESTYLE (Live)",
+        "Mamacita (live)": "MAMACITA (Live)",
+        "Astroworld [Explicit]": "ASTROWORLD [Explicit]",
+        "4x4": "4X4"
     },
-    "bladee": {
-        "Drama (feat. Charli XCX)": "Drama (feat. Charli xcx)",
+    "Tyler, The Creator": {
+        "What A Day": "WHAT A DAY",
+        "Sorry Not Sorry": "SORRY NOT SORRY",
 
-        "COLD VISIONS": "Cold Visions",
-        "OTHERSIDE (FeaT. SICKBOYRARI)": "OTHERSIDE (feat. Sickboyrari)"
+        "Chromakopia": "CHROMAKOPIA",
+        "ST. CHROMA": "St. Chroma",
+        "NOID": "Noid",
+        "DARLING, I": "Darling, I",
+        "THOUGHT I WAS DEAD": "Thought I Was Dead",
+        "ST. CHROMA (feat. Daniel Caesar)": "St. Chroma (feat. Daniel Caesar)",
+        "STICKY (feat. GloRilla, Sexyy Red & Lil Wayne)": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)"
     },
-    "100 gecs": {
-        "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
+    "yeule": {
+        "Sulky Baby": "sulky baby"
     },
-    "dc the don": {
-        "ReBIRTH": "REBIRTH"
+    "Young Thug": {
+        "Pick up the Phone": "pick up the phone"
     },
-    "yui horie": {
+    "Yui Horie": {
         "Silky Heart": "silky heart"
+    },
+    "Yumi": {
+        "Dance": "DANCE"
     }
 }
