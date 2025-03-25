@@ -21,16 +21,6 @@
         "this is how it went": "This Is How It Went",
         "tie my shoes": "Tie My Shoes"
     },
-    "osamason": {
-        "the whole world is free": "The Whole World Is Free"
-    },
-    "marina": {
-        "Love + Fear": "LOVE + FEAR"
-    },
-    "yunosa": {
-        "ALL 4 IT": "all 4 it",
-        "All 4 It - Single": "all 4 it - Single"
-    },
     "bladee": {
         "COLD VISIONS": "Cold Visions",
         "Drama (feat. Charli XCX)": "Drama (feat. Charli xcx)",
@@ -143,6 +133,9 @@
     "m1v": {
         "revolution revolution": "revolution Revolution"
     },
+    "marina": {
+        "Love + Fear": "LOVE + FEAR"
+    },
     "my bloody valentine": {
         "Blown a Wish": "blown a wish",
         "Come in Alone": "come in alone",
@@ -172,6 +165,9 @@
     "olivia rodrigo": {
         "Guts": "GUTS"
     },
+    "osamason": {
+        "the whole world is free": "The Whole World Is Free"
+    },
     "playboi carti": {
         "All Red": "ALL RED",
         "Music": "MUSIC"
@@ -179,6 +175,7 @@
     "quadeca": {
         "being yourself": "BEING YOURSELF",
         "BORN YESTERDAY": "born yesterday",
+        "Godstained": "GODSTAINED",
         "Gone Gone": "gone gone",
         "Guess Who?": "GUESS WHO?",
         "i didn't mean to haunt you": "I Didn't Mean To Haunt You",
@@ -224,7 +221,7 @@
         "THOUGHT I WAS DEAD": "Thought I Was Dead",
         "What A Day": "WHAT A DAY"
     },
-    "version": "2025.0323",
+    "version": "2025.0325",
     "yeule": {
         "Sulky Baby": "sulky baby"
     },
@@ -236,5 +233,9 @@
     },
     "yumi": {
         "Dance": "DANCE"
+    },
+    "yunosa": {
+        "ALL 4 IT": "all 4 it",
+        "All 4 It - Single": "all 4 it - Single"
     }
 }
