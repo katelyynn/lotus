@@ -21,6 +21,9 @@
         "this is how it went": "This Is How It Went",
         "tie my shoes": "Tie My Shoes"
     },
+    "billie eilish": {
+        "Hit Me Hard and Soft": "HIT ME HARD AND SOFT"
+    },
     "bladee": {
         "COLD VISIONS": "Cold Visions",
         "Drama (feat. Charli XCX)": "Drama (feat. Charli xcx)",
@@ -222,7 +225,7 @@
         "THOUGHT I WAS DEAD": "Thought I Was Dead",
         "What A Day": "WHAT A DAY"
     },
-    "version": "2025.0526",
+    "version": "2025.0603",
     "yeule": {
         "Sulky Baby": "sulky baby"
     },
