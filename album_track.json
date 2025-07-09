@@ -1,4 +1,5 @@
 {
+    "version": "2025.0709",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -174,7 +175,10 @@
     "playboi carti": {
         "All Red": "ALL RED",
         "Music": "MUSIC",
-        "mUnYuN": "MUNYUN"
+        "Music (Sessions)": "MUSIC (Sessions)",
+        "mUnYuN": "MUNYUN",
+        "Some More": "SOME MORE",
+        "Alive": "ALIVE"
     },
     "quadeca": {
         "being yourself": "BEING YOURSELF",
@@ -212,7 +216,9 @@
         "Basement Freestyle (Live)": "BASEMENT FREESTYLE (Live)",
         "Days Before Rodeo": "DAYS BEFORE RODEO",
         "Mamacita (Feat. Rich Homie Quan & Young Thug)": "Mamacita (feat. Rich Homie Quan & Young Thug)",
-        "Mamacita (live)": "MAMACITA (Live)"
+        "Mamacita (live)": "MAMACITA (Live)",
+        "Franchise (feat. Future, Young Thug & M.I.A.) [remix]": "FRANCHISE (feat. Future, Young Thug & M.I.A.) [REMIX]",
+        "Astroworld (Sessions)": "ASTROWORLD (Sessions)"
     },
     "tyler, the creator": {
         "Chromakopia": "CHROMAKOPIA",
@@ -225,7 +231,6 @@
         "THOUGHT I WAS DEAD": "Thought I Was Dead",
         "What A Day": "WHAT A DAY"
     },
-    "version": "2025.0603",
     "yeule": {
         "Sulky Baby": "sulky baby"
     },
