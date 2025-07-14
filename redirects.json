@@ -4,6 +4,9 @@
         "_": "Travis Scott"
     },
     "travis scott": {
-        "JACKBOYS 2": "JACKBOYS 2"
+        "JACKBOYS 2": {
+            "artist": "JACKBOYS",
+            "album": "JACKBOYS 2"
+        }
     }
 }
