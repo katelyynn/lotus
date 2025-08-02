@@ -1,0 +1,31 @@
+name: Album or Track
+labels: ['type:album_track']
+body:
+  - type: input
+    id: current
+    attributes:
+      label: Current
+      description: How is this currently capitalised?
+    validations:
+      required: true
+  - type: input
+    id: correction
+    attributes:
+      label: Correction
+      description: How should this be capitalised?
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Can you provide the link to the page on Last.fm?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Can you provide sources where this capitalisation is present?
+    validations:
+      required: true

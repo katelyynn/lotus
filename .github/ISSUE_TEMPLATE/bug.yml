@@ -1,0 +1,6 @@
+name: Bug report
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "This is not the place for reporting bugs, if you are using bleh please head to [this page](https://github.com/katelyynn/bleh/issues/new/choose)"
