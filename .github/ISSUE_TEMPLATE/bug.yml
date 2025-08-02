@@ -1,4 +1,5 @@
 name: Bug report
+description: Please don't submit bug reports here
 labels: []
 body:
   - type: markdown

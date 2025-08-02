@@ -1,4 +1,5 @@
 name: Album or Track
+description: Correct capitalisation for an album or track
 labels: ['type:album_track']
 body:
   - type: input

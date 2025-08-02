@@ -1,4 +1,5 @@
 name: Artist
+description: Correct capitalisation for an artist
 labels: ['type:artist']
 body:
   - type: input
