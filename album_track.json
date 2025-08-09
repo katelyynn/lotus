@@ -1,5 +1,5 @@
 {
-    "version": "2025.0808",
+    "version": "2025.0809",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -17,7 +17,7 @@
         "everything i want": "Everything I Want",
         "post": "Post",
         "real man": "Real Man",
-        "take a bite": "Take A Bite",
+        "take a bite": "Take a Bite",
         "the man who left too soon": "The Man Who Left Too Soon",
         "this is how it went": "This Is How It Went",
         "tie my shoes": "Tie My Shoes"
@@ -64,9 +64,9 @@
         "MAGIC DON JUAN (PRINCESS DIANA)": "Magic Don Juan (Princess Diana)",
         "NIGHTS LIKE THIS": "Nights Like This",
         "ONE BIG FAMILY": "One Big Family",
-        "OUT OF MY HANDS": "Out Of My Hands",
+        "OUT OF MY HANDS": "Out of My Hands",
         "RUNNIN OUTTA TIME": "Runnin Outta Time",
-        "SEEN IT ALL": "Seen it All",
+        "SEEN IT ALL": "Seen It All",
         "SLIMED IN": "Slimed In",
         "TYPE SHIT": "Type Shit",
         "YOUNG METRO": "Young Metro"
@@ -93,26 +93,31 @@
         "Stay + Love Story (Cover)": "stay + love story (cover)",
         "SYNOPSIS (demo)": "synopsis (demo)"
     },
+    "hans gruber and the die hards": {
+        "Hans Gruber and The Die Hards": "Hans Gruber and the Die Hards",
+        "With A Vengeance": "With a Vengeance",
+    },
+    "h2o": {
+        "Cats And Dogs": "Cats and Dogs",
+        "Don't forget your Roots": "Don't Forget Your Roots",
+        "From The Heart": "From the Heart",
+        "Journey To The End Of The East Bay": "Journey to the End of the East Bay",
+        "Nothing to Prove": "Nothing to Prove",
+        "Out of Debt": "Out of Debt",
+        "Ripe Or Rotting?": "Ripe or Rotting?",
+        "Shine The Light Down": "Shine the Light Down",
+        "Thick And Thin": "Thick and Thin",
+        "Underneath The Flames": "Underneath the Flames"
+    },
     "jpegmafia": {
         "Are you happy?": "ARE YOU HAPPY?",
         "I SCREAM THIS IN THE MIRROR BEFORE I INTERACT WITH ANYONE": "i scream this in the mirror before i interact with anyone"
     },
     "juice wrld": {
-        "Armed and Dangerous": "Armed And Dangerous",
-        "Blood on My Jeans": "Blood On My Jeans",
         "empty out your pockets": "Empty Out Your Pockets",
         "Hemotions (Feat. Ty Dolla $ign)": "HeMotions (feat. Ty Dolla $ign)",
         "lace it (with eminem & benny blanco)": "Lace It (with Eminem & benny blanco)",
-        "Life's a Dungeon": "Life's A Dungeon",
-        "Life's a Mess (feat. Halsey)": "Life's A Mess (feat. Halsey)",
-        "Man of the Year": "Man Of The Year",
-        "My Life in a Nutshell": "My Life In A Nutshell",
-        "Off the rip": "Off The Rip",
-        "Rich and Blind": "Rich And Blind",
-        "Rockstar in His Prime": "Rockstar In His Prime",
         "Run": "RUN",
-        "Until the Plug Comes Back Around": "Until The Plug Comes Back Around",
-        "Wandered to LA (with Justin Bieber)": "Wandered To LA (with Justin Bieber)"
     },
     "julie": {
         "April’s-Bloom": "april’s-bloom",
@@ -154,22 +159,6 @@
         "What You Want": "what you want",
         "When You Sleep": "when you sleep"
     },
-    "nirvana": {
-        "Tourette's - 1992/Live at Reading": "tourette's - 1992/Live at Reading",
-        "Tourette's - 2013 Mix": "tourette's - 2013 Mix",
-        "Tourette's - Demo / Instrumental": "tourette's - Demo / Instrumental",
-        "Tourette's (2013 Mix)": "tourette's (2013 Mix)",
-        "Tourette's (Alternative Mix)": "tourette's (Alternative Mix)",
-        "Tourette's (Demo / Instrumental)": "tourette's (Demo / Instrumental)",
-        "On a Plain": "On A Plain",
-        "Come as You Are": "Come As You Are",
-        "Something in the Way": "Something In The Way",
-        "Something in the Way / Endless, Nameless": "Something In The Way / Endless, Nameless",
-        "Serve the Servants": "Serve The Servants",
-        "Frances Farmer Will Have Her Revenge on Seattle": "Frances Farmer Will Have Her Revenge On Seattle",
-        "With the Lights Out": "With The Lights Out",
-        "MTV Unplugged in New York": "MTV Unplugged In New York"
-    },
     "oklou": {
         "Blade Bird": "blade bird",
         "Obvious": "obvious"
@@ -210,17 +199,30 @@
     "quinn": {
         "Quinn": "quinn"
     },
+    "sparta": {
+        "Assemble The Empire": "Assemble the Empire",
+        "Breaking The Broken": "Breaking the Broken",
+        "Death In The Family": "Death in the Family",
+        "From Now To Never": "From Now to Never",
+        "Guns Of Memorial Park": "Guns of Memorial Park",
+        "Hiss The Villain": "Hiss the Villain",
+        "Kill The Man, Eat The Man": "Kill the Man, Eat the Man",
+        "Lines In Sand": "Lines in Sand",
+        "Live At La Zona Rosa 3.19.04": "Live at La Zona Rosa 3.19.04",
+        "Travel By Bloodline": "Travel by Bloodline",
+        "True To Form": "True to Form",
+        "Trust The River": "Trust the River",
+        "Until The Kingdom Comes": "Until the Kingdom Comes",
+        "Weather The Storm": "Weather the Storm",
+        "Without A Sound": "Without a Sound"
+    },
     "taylor swift": {
-        "All of the Girls You Loved Before": "All Of The Girls You Loved Before",
-        "Death by a Thousand Cuts": "Death By A Thousand Cuts",
-        "Miss Americana & the Heartbreak Prince": "Miss Americana & The Heartbreak Prince",
         "Reputation": "reputation",
-        "You Need to Calm Down": "You Need To Calm Down"
+    },
+    "the mars volta": {
+        "Frances The Mute": "Frances the Mute",
     },
     "the weeknd": {
-        "Baptized in Fear": "Baptized In Fear",
-        "Given Up on Me": "Given Up On Me",
-        "I Can't Wait to Get There": "I Can't Wait To Get There",
         "Timeless (Feat Playboi Carti)": "Timeless (feat. Playboi Carti)",
         "TIMELESS (feat. Playboi Carti)": "Timeless (feat. Playboi Carti)"
     },
@@ -269,7 +271,7 @@
         "Greatest Hits": "greatest hits"
     },
     "cardiacs": {
-        "a Bus For a Bus on the Bus": "A Bus For A Bus On The Bus",
+        "a Bus For a Bus on the Bus": "A Bus for a Bus on the Bus",
         "faster than snakes with a ball and a chain": "Faster Than Snakes with a Ball and a Chain"
     },
     "spiritbox": {
@@ -303,6 +305,6 @@
         "WHAT HAPPENS After you?": "What Happens After You?"
     },
     "veggietales": {
-        "we are the grapes of wrath": "We Are The Grapes of Wrath"
+        "we are the grapes of wrath": "We Are the Grapes of Wrath"
     }
 }
