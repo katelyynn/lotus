@@ -22,6 +22,9 @@
         "this is how it went": "This Is How It Went",
         "tie my shoes": "Tie My Shoes"
     },
+    "ben folds five": {
+        "Steven's Last Night In Town": "Steven's Last Night in Town"
+    },
     "billie eilish": {
         "Hit Me Hard and Soft": "HIT ME HARD AND SOFT"
     },
@@ -36,6 +39,10 @@
         "Introvert": "introvert",
         "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all"
     },
+    "cardiacs": {
+        "a Bus For a Bus on the Bus": "A Bus for a Bus on the Bus",
+        "faster than snakes with a ball and a chain": "Faster Than Snakes with a Ball and a Chain"
+    },
     "charli xcx": {
         "guess featuring billie eilish": "Guess featuring billie eilish",
         "talk talk featuring troye sivan": "Talk talk featuring Troye Sivan"
@@ -48,6 +55,9 @@
         "cole pImp (with ty dolla $ign & juicy J)": "COLE PIMP (with Ty Dolla $ign & Juicy J)",
         "King of the Mischievous South": "KING OF THE MISCHIEVOUS SOUTH",
         "sked (with kenny Mason & project pat)": "SKED (with Kenny Mason & Project Pat)"
+    },
+    "double virgo": {
+        "Greatest Hits": "greatest hits"
     },
     "ericdoa": {
         "Search & Destroy": "search & destroy",
@@ -126,6 +136,7 @@
         "Starjump / Kit": "starjump/kit"
     },
     "kanye west": {
+        "All Of The Lights (feat. Rihanna, KiD CuDi, Fergie, Alicia Keys & Elton John)": "All of the Lights (feat. Rihanna, Kid Cudi, Fergie, Alicia Keys & Elton John)",
         "Beauty and the beast": "BEAUTY AND THE BEAST",
         "Bully": "BULLY",
         "Circles": "CIRCLES",
@@ -145,6 +156,9 @@
     },
     "marina": {
         "Love + Fear": "LOVE + FEAR"
+    },
+    "marina & the diamonds": {
+        "Froot": "FROOT"
     },
     "my bloody valentine": {
         "Blown a Wish": "blown a wish",
@@ -169,6 +183,9 @@
     },
     "osamason": {
         "the whole world is free": "The Whole World Is Free"
+    },
+    "phreshboyswag": {
+        "ObsessEd": "obsessed"
     },
     "playboi carti": {
         "All Red": "ALL RED",
@@ -200,6 +217,12 @@
     "quinn": {
         "Quinn": "quinn"
     },
+    "reckless kelly": {
+        "She Sang The Red River Valley": "She Sang the Red River Valley"
+    },
+    "sbtrkt": {
+        "fried eggs": "Fried Eggs"
+    },
     "sparta": {
         "Assemble The Empire": "Assemble the Empire",
         "Breaking The Broken": "Breaking the Broken",
@@ -217,8 +240,14 @@
         "Weather The Storm": "Weather the Storm",
         "Without A Sound": "Without a Sound"
     },
+    "spiritbox": {
+        "TSUNAMI SEA": "Tsunami Sea"
+    },
     "taylor swift": {
         "Reputation": "reputation",
+    },
+    "the marías": {
+        "LeJos De Ti": "Lejos de Ti"
     },
     "the mars volta": {
         "Frances The Mute": "Frances the Mute",
@@ -238,6 +267,9 @@
         "Astroworld (Sessions)": "ASTROWORLD (Sessions)",
         "Beep Beep": "BEEP BEEP"
     },
+    "tws": {
+        "tWs 3rD mInI aLbUm 'TrY wItH uS'": "TWS 3rd Mini Album 'TRY WITH US'"
+    },
     "tyler, the creator": {
         "Chromakopia": "CHROMAKOPIA",
         "DARLING, I": "Darling, I",
@@ -248,6 +280,15 @@
         "STICKY (feat. GloRilla, Sexyy Red & Lil Wayne)": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
         "THOUGHT I WAS DEAD": "Thought I Was Dead",
         "What A Day": "WHAT A DAY"
+    },
+    "veggietales": {
+        "we are the grapes of wrath": "We Are the Grapes of Wrath"
+    },
+    "wallie the sensei": {
+        "110 South": "110 SOUTH"
+    },
+    "weezer": {
+        "WHAT HAPPENS After you?": "What Happens After You?"
     },
     "yeule": {
         "Sulky Baby": "sulky baby"
@@ -264,48 +305,5 @@
     "yunosa": {
         "ALL 4 IT": "all 4 it",
         "All 4 It - Single": "all 4 it - Single"
-    },
-    "marina & the diamonds": {
-        "Froot": "FROOT"
-    },
-    "double virgo": {
-        "Greatest Hits": "greatest hits"
-    },
-    "cardiacs": {
-        "a Bus For a Bus on the Bus": "A Bus for a Bus on the Bus",
-        "faster than snakes with a ball and a chain": "Faster Than Snakes with a Ball and a Chain"
-    },
-    "spiritbox": {
-        "TSUNAMI SEA": "Tsunami Sea"
-    },
-    "tws": {
-        "tWs 3rD mInI aLbUm 'TrY wItH uS'": "TWS 3rd Mini Album 'TRY WITH US'"
-    },
-    "phreshboyswag": {
-        "ObsessEd": "obsessed"
-    },
-    "the marías": {
-        "LeJos De Ti": "Lejos de Ti"
-    },
-    "ben folds five": {
-        "Steven's Last Night In Town": "Steven's Last Night in Town"
-    },
-    "reckless kelly": {
-        "She Sang The Red River Valley": "She Sang the Red River Valley"
-    },
-    "wallie the sensei": {
-        "110 South": "110 SOUTH"
-    },
-    "sbtrkt": {
-        "fried eggs": "Fried Eggs"
-    },
-    "kanye west": {
-        "All Of The Lights (feat. Rihanna, KiD CuDi, Fergie, Alicia Keys & Elton John)": "All of the Lights (feat. Rihanna, Kid Cudi, Fergie, Alicia Keys & Elton John)"
-    },
-    "weezer": {
-        "WHAT HAPPENS After you?": "What Happens After You?"
-    },
-    "veggietales": {
-        "we are the grapes of wrath": "We Are the Grapes of Wrath"
     }
 }
