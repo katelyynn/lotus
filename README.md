@@ -1,26 +1,24 @@
 # lotus
 
-lotus is a repository aiming to power both my last.fm projects [bleh](https://cutensilly.org/bleh/fm) and [bwaa](https://cutensilly.org/bwaa/fm) to have a unified correction system.
+lotus is a repository of capitalisation corrections powering my two last.fm projects, [bleh](https://cutensilly.org/bleh/fm) and [bwaa](https://cutensilly.org/bwaa/fm).
 
-## what is the 'correction system'?
+### What is the system?
 
-last.fm's catalogue of artists, albums, and tracks all work by people scrobbling. the first to scrobble an item, will decide its capitalisation. this can often be incorrect and to combat this last.fm has a system to correct these themselves.
+Last.fm's catalogue of artists, albums, and tracks is powered by people (like you!) scrobbling. The first to scrobble a new entry gets to decide the base capitalisation. While in some cases this can work out, many times this leads to incorrect capitalisations either by mistake or on purpose.
 
-however unfortunately it takes them a *long* time, trust me i would know. as a sort of bridge to fill this current gap, bleh offers it's own correction system powered entirely by community contributions in the issues tab. with lotus i aim to bundle this into one repository that is not necessarily tied to a single project, with the added benefit of allowing updates to these systems without full project updates.
+There is an in-built form created by Last.fm to submit corrections but it takes a *long* time - to the point I have stopped sending in new ones as I have never noticed mine take effect. **lotus** aims to be a fix in the middle in the meantime, offering community contributions which are then downloaded in the two previously mentioned projects.
 
-## how do i contribute corrections?
+### How do I contribute?
 
-simply [create a new issue right here](https://github.com/katelyynn/lotus/issues/new/choose) :3
+Fill out [the form in the Issues tab](https://github.com/katelyynn/lotus/issues/new/choose) to add your request to the queue. @hazelfae handles processing the queue and adds many corrections in bulk, so if it's taking too long for you.. have patience. **Pull requests are okay but it's often better to just submit an issue yourself without having to go through the hassle** - it can also create it's own issues, so just make an issue using the usual method.
 
-## what if 2 or more share a same name?
+### Do you have any rules?
 
-in these common instances i base this on the most popular usage. for example, in the silly case of [funeral](https://www.last.fm/music/Funeral), the top tracks very obviously match the Spotify page of [*this* funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd?si=LpV8APuLRmClhZ5A98JPQQ) (despite the vocal minority who shout about the other *Funeral*). i believe this is the best workaround to appeal to the majority until last.fm can separate these pages themselves.
+Unlike music databases like RYM and MusicBrainz, capitalisations are decided by **the artist**, not by strict ruling. If an artist wants their song to be "softscars" or "Take A Bite", **we use that** instead of "Softscars" or "Take a Bite" - even if it's "technically correct" or whatever.
 
-in the future, it may be possible to set per-user corrections within the projects (bleh and bwaa) which integrate this correction system.
-
-## where did past requests come from?
-
-before lotus was created, corrections were hosted in [bleh](https://github.com/katelyynn/bleh/issues?q=label%3Asystem%3Acorrections+is%3Aclosed) - you can find past correction requests here.
+### FAQ
+- **What if two artists share the same name?** The most popular usage of the name is favoured, for example in the silly case of [funeral](https://www.last.fm/music/funeral), the top tracks very obviously match the Spotify page of [*this* funeral](https://open.spotify.com/artist/3f0Mhz0oXmnsnehuEGTrfd?si=LpV8APuLRmClhZ5A98JPQQ) (despite the vocal minority who shout about the other *Funeral*). Until Last.fm can separate these pages themselves, I believe this to be the best workaround to appease the majority. In the future, bleh may offer a way to add your own local capitalisation fixes.
+- **Where did past requests originate?** Before lotus was created, corrections were hosted in [bleh](https://github.com/katelyynn/bleh/issues?q=label%3Asystem%3Acorrections+is%3Aclosed) - you can find past correction requests here.
 
 ---
 
