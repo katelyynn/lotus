@@ -1,5 +1,5 @@
 {
-    "version": "2025.0808",
+    "version": "2025.0809",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -120,6 +120,7 @@
         "Starjump / Kit": "starjump/kit"
     },
     "kanye west": {
+        "All Of The Lights (feat. Rihanna, KiD CuDi, Fergie, Alicia Keys & Elton John)": "All of the Lights (feat. Rihanna, Kid Cudi, Fergie, Alicia Keys & Elton John)",
         "Beauty and the beast": "BEAUTY AND THE BEAST",
         "Bully": "BULLY",
         "Circles": "CIRCLES",
@@ -296,13 +297,94 @@
     "sbtrkt": {
         "fried eggs": "Fried Eggs"
     },
-    "kanye west": {
-        "All Of The Lights (feat. Rihanna, KiD CuDi, Fergie, Alicia Keys & Elton John)": "All of the Lights (feat. Rihanna, Kid Cudi, Fergie, Alicia Keys & Elton John)"
-    },
     "weezer": {
         "WHAT HAPPENS After you?": "What Happens After You?"
     },
     "veggietales": {
         "we are the grapes of wrath": "We Are The Grapes of Wrath"
+    },
+    "afi": {
+        "Silver Bleeds The Black Sun...": "Silver Bleeds the Black Sun..."
+    },
+    "cky": {
+        "Attached At The Hip": "Attached at the Hip",
+        "Disengage The Simulator": "Disengage the Simulator",
+        "Flesh Into Gear": "Flesh into Gear",
+        "Lost In A Contraption": "Lost in a Contraption",
+        "Shock And Terror": "Shock and Terror",
+        "Sink Into The Underground": "Sink into the Underground",
+        "the phoenix": "The Phoenix",
+        "To All Of You": "To All of You"
+    },
+    "deftones": {
+        "Cut Hands": "cut hands",
+        "CXz": "cXz",
+        "Departing The Body": "departing the body",
+        "Ecdysis": "ecdysis",
+        "Infinite Source": "infinite source",
+        "I Think About You All The Time": "i think about you all the time",
+        "Locked Club": "locked club",
+        "Milk Of The Madonna": "milk of the madonna",
+        "My Mind Is A Mountain": "my mind is a mountain",
+        "Private Music": "Private Music",
+        "Souvenir": "souvenir",
+        "~Metal Dream": "~metal dream"
+    },
+    "esbbat": {
+        "DENTRO DEL ESBBAT": "Dentro del Esbat"
+    },
+    "hans gruber and the die hards": {
+        "Hans Gruber and The Die Hards": "Hans Gruber and the Die Hards",
+        "With A Vengeance": "With a Vengeance"
+    },
+    "h2o": {
+        "Cats And Dogs": "Cats and Dogs",
+        "Don't forget your Roots": "Don't Forget Your Roots",
+        "From The Heart": "From the Heart",
+        "Journey To The End Of The East Bay": "Journey to the End of the East Bay",
+        "Nothing to Prove": "Nothing to Prove",
+        "Out of Debt": "Out of Debt",
+        "Ripe Or Rotting?": "Ripe or Rotting?",
+        "Shine The Light Down": "Shine the Light Down",
+        "Thick And Thin": "Thick and Thin",
+        "Underneath The Flames": "Underneath the Flames"
+    },
+    "hayley williams": {
+        "glum": "Glum",
+        "WHIM": "Whim"
+    },
+    "ifeye": {
+        "SWEET TANG": "sweet tang",
+    },
+    "primus": {
+        "Animals Should Not Try To Act Like People": "Animals Should Not Try to Act Like People",
+        "Duchess And The Proverbial Mind Spread": "Duchess and the Proverbial Mind Spread",
+        "Over The Falls": "Over the Falls",
+        "Shake Hands With Beef": "Shake Hands with Beef",
+        "Tales From The Punchbowl": "Tales from the Punchbowl",
+        "The Chastising Of Renegade": "The Chastisting of Renegade",
+        "The Return Of Sathington Willoughby": "The Return of Sathington Willoughby"
+    },
+    "sparta": {
+        "Assemble The Empire": "Assemble the Empire",
+        "Breaking The Broken": "Breaking the Broken",
+        "Death In The Family": "Death in the Family",
+        "From Now To Never": "From Now to Never",
+        "Guns Of Memorial Park": "Guns of Memorial Park",
+        "Hiss The Villain": "Hiss the Villain",
+        "Kill The Man, Eat The Man": "Kill the Man, Eat the Man",
+        "Lines In Sand": "Lines in Sand",
+        "Live At La Zona Rosa 3.19.04": "Live at La Zona Rosa 3.19.04",
+        "Travel By Bloodline": "Travel by Bloodline",
+        "True To Form": "True to Form",
+        "Trust The River": "Trust the River",
+        "Until The Kingdom Comes": "Until the Kingdom Comes",
+        "Weather The Storm": "Weather the Storm",
+        "Without A Sound": "Without a Sound"
+    },
+    "the mars volta": {
+        "Frances The Mute": "Frances the Mute",
+        "Inertiatic esp": "Inertiatic ESP",
+        "Roulette Dares (The Haunt of)": "Roulette Dares (The Haunt Of)"
     }
 }
