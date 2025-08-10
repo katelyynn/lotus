@@ -1,5 +1,5 @@
 {
-    "version": "2025.0809",
+    "version": "2025.0810",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -386,5 +386,9 @@
         "Frances The Mute": "Frances the Mute",
         "Inertiatic esp": "Inertiatic ESP",
         "Roulette Dares (The Haunt of)": "Roulette Dares (The Haunt Of)"
+    },
+    "hayley williams": {
+        "glum": "Glum",
+        "WHIM": "Whim"
     }
 }
