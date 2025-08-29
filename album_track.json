@@ -177,7 +177,7 @@
         "i hate myself and want to die - 2023 remaster": "I Hate Myself And Want To Die - 2023 Remaster",
         "in bloom - live in los angeles, great western forum - december 30, 1993": "In Bloom - Live in Los Angeles, Great Western Forum - December 30, 1993",
         "jesus doesn't want me for a sunbeam - live": "Jesus Doesn't Want Me For A Sunbeam - Live",
-        "jesus doesn't want me for a sunbeam - live in los angeles, great western forum - december 30, 1993": "Jesus Doesn't Want Me For A Sunbean - Live in Los Angeles, Great Western Forum - December 30, 1993",
+        "jesus doesn't want me for a sunbeam - live in los angeles, great western forum - december 30, 1993": "Jesus Doesn't Want Me For A Sunbeam - Live in Los Angeles, Great Western Forum - December 30, 1993",
         "lake of fire - live": "Lake Of Fire - Live",
         "Lake of fire - live acoustic": "Lake Of Fire - Live Acoustic",
         "lithium - live in los angeles, great western forum - december 30, 1993": "Lithium - Live in Los Angeles, Great Western Forum - December 30, 1993",
@@ -482,7 +482,7 @@
         "Locked Club": "locked club",
         "Milk Of The Madonna": "milk of the madonna",
         "My Mind Is A Mountain": "my mind is a mountain",
-        "Private Music": "Private Music",
+        "Private Music": "private music",
         "Souvenir": "souvenir",
         "~Metal Dream": "~metal dream"
     },
@@ -555,11 +555,21 @@
     },
     "falling in reverse": {
         "god is a weapon": "God Is a Weapon",
+        "God Is A Weapon": "God Is a Weapon",
         "GOD is a weapon (feat. MARILYN MANSON)": "God Is a Weapon (feat. Marilyn Manson)",
         "I'm Not A Vampire": "I'm Not a Vampire",
         "No Fear": "NO FEAR",
         "Raised By Wolves": "Raised by Wolves",
         "The Drug In Me Is You": "The Drug in Me Is You",
         "Zombified": "ZOMBIFIED"
+    },
+    "avenged sevenfold": {
+        "A Little Piece Of Heaven - Live": "A Little Piece of Heaven - Live",
+        "Almost Easy - LIVE": "Almost Easy - Live",
+        "Bat Country - Live At Hammerstein Ballroom": "Bat Country - Live at Hammerstein Ballroom",
+        "Hail To The King": "Hail to the King",
+        "Shepherd Of Fire": "Shepherd of Fire",
+        "Waking The Fallen": "Waking the Fallen",
+        "Waking The Fallen: Resurrected": "Waking the Fallen: Resurrected"
     }
 }
