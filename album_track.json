@@ -1,5 +1,5 @@
 {
-    "version": "2025.0815",
+    "version": "2025.0831",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -23,7 +23,9 @@
         "tie my shoes": "Tie My Shoes"
     },
     "billie eilish": {
-        "Hit Me Hard and Soft": "HIT ME HARD AND SOFT"
+        "Hit Me Hard and Soft": "HIT ME HARD AND SOFT",
+        "My Future": "my future",
+        "When I Was Older (Music Inspired by the Movie Roma)": "WHEN I WAS OLDER (Music Inspired by the Movie ROMA)"
     },
     "bladee": {
         "COLD VISIONS": "Cold Visions",
@@ -283,7 +285,7 @@
         "Suburban Legends (Taylor's Version) (From the Vault)": "Suburban Legends (Taylor's Version) (From The Vault)",
         "Is It Over Now? (Taylor's Version) (From the Vault)": "Is It Over Now? (Taylor's Version) (From The Vault)",
         "The Life Of A Showgirl": "The Life of a Showgirl",
-        "WOOd": "Wood", 
+        "WOOd": "Wood",
         "OPAlite": "Opalite",
         "Ruin the Friendship": "Ruin The Friendship",
         "Back to December (Taylor's Version)": "Back To December (Taylor's Version)",
@@ -372,7 +374,8 @@
         "I'm Only Me When I'm with You": "I'm Only Me When I'm With You",
         "Teardrops on My Guitar - Pop Version": "Teardrops On My Guitar - Pop Version",
         "Teardrops on My Guitar - Radio Single Remix": "Teardrops On My Guitar - Radio Single Remix",
-        "Teardrops on My Guitar": "Teardrops On My Guitar"
+        "Teardrops on My Guitar": "Teardrops On My Guitar",
+        "Welcome to New York": "Welcome To New York"
     },
     "the weeknd": {
         "Baptized in Fear": "Baptized In Fear",
@@ -561,5 +564,18 @@
         "Raised By Wolves": "Raised by Wolves",
         "The Drug In Me Is You": "The Drug in Me Is You",
         "Zombified": "ZOMBIFIED"
+    },
+    "jid": {
+        "glOry": "Glory"
+    },
+    "tomorrow x together": {
+        "forty ONE winks": "Forty One Winks",
+        "higher THAN heaven": "Higher Than Heaven"
+    },
+    "camila cabello": {
+        "C,XOXO (MAGIC CITY EDITION)": "C,XOXO (Magic City Edition)"
+    },
+    "lucy bedroque": {
+        "unmusique": "Unmusique"
     }
 }
