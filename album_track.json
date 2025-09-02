@@ -1,5 +1,5 @@
 {
-    "version": "2025.0831",
+    "version": "2025.0903",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -577,5 +577,33 @@
     },
     "lucy bedroque": {
         "unmusique": "Unmusique"
+    },
+    "confidence man": {
+        "Gossip": "gossip",
+        "GOSSIP": "gossip"
+    },
+    "paramore": {
+        "Running Out of Time": "Running Out Of Time"
+    },
+    "carly rae jepsen": {
+        "Run Away with Me": "Run Away With Me",
+        "Making the Most of the Night": "Making The Most Of The Night",
+        "I Didn't Just Come Here to Dance": "I Didn't Just Come Here To Dance",
+        "Never Get to Hold You - Bonus Track": "Never Get To Hold You - Bonus Track",
+        "Never Get to Hold You": "Never Get To Hold You"
+    },
+    "reneé rapp": {
+        "EVERYTHING TO EVERYONE": "Everything To Everyone",
+        "EVERYTHING TO EVERYONE (Deluxe)": "Everything to Everyone (Deluxe)"
+    },
+    "the simpsons": {
+        "hit and run": "Hit and Run",
+        "kwik-e-mart": "Kwik-E-Mart"
+    },
+    "custard": {
+        "Ringo (I feel like...)": "Ringo (I Feel Like...)"
+    },
+    "efterklang": {
+        "Told To Be Fine": "Told to Be Fine"
     }
 }
