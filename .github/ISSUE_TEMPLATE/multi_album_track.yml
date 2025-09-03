@@ -7,6 +7,7 @@ body:
     attributes:
       label: Current
       description: How are these tracks currently capitalised? (List all that need corrections)
+      placeholder: "E.g. rUn AwAy WiTh Me\neMotIon\ni RealLY lIkE You"
     validations:
       required: true
   - type: textarea
@@ -14,6 +15,7 @@ body:
     attributes:
       label: Correction
       description: How should these tracks be capitalised instead? (In the same order as the current list)
+      placeholder: "E.g. Run Away With Me\nEmotion\nI Really Like You"
     validations:
       required: true
   - type: input
@@ -21,6 +23,7 @@ body:
     attributes:
       label: Link
       description: Can you provide the link to the artist or album on Last.fm?
+      placeholder: "E.g. https://www.last.fm/music/Carly+Rae+Jepsen/Emotion"
     validations:
       required: true
   - type: textarea
@@ -28,5 +31,6 @@ body:
     attributes:
       label: Sources
       description: Can you provide reputable sources where this correct capitalisation is present? (One source can work for all or some tracks)
+      placeholder: "E.g. https://open.spotify.com/album/08MsbKas4UJKhbJlAnAyfB"
     validations:
       required: true
