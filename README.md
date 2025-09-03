@@ -1,6 +1,6 @@
 # lotus
 
-lotus is a repository of capitalisation corrections powering my two last.fm projects, [bleh](https://cutensilly.org/bleh/fm) and [bwaa](https://cutensilly.org/bwaa/fm).
+lotus is a repository of capitalisation corrections powering my two last.fm projects, [bleh](https://bleh.katelyn.moe) and [bwaa](https://katelyn.moe/bwaa).
 
 ### What is the system?
 
@@ -10,7 +10,7 @@ There is an in-built form created by Last.fm to submit corrections but it takes 
 
 ### How do I contribute?
 
-Fill out [the form in the Issues tab](https://github.com/katelyynn/lotus/issues/new/choose) to add your request to the queue. @hazelfae handles processing the queue and adds many corrections in bulk, so if it's taking too long for you.. have patience. **Pull requests are okay but it's often better to just submit an issue yourself without having to go through the hassle** - it can also create it's own problems like that, so just make an issue using the usual method.
+Fill out [the form in the Issues tab](https://github.com/katelyynn/lotus/issues/new/choose) to add your request to the queue. @swiffyjk primarily handles processing the queue and adds many corrections in bulk, so if it's taking too long for you.. have patience. **Pull requests are okay but it's often better to just submit an issue yourself without having to go through the hassle** - it can also create it's own problems like that, so just make an issue using the usual method.
 
 ### Do you have any rules?
 
