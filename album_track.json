@@ -1,5 +1,5 @@
 {
-    "version": "2025.0903",
+    "version": "2025.0904",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -605,5 +605,8 @@
     },
     "efterklang": {
         "Told To Be Fine": "Told to Be Fine"
+    },
+    "lady gaga": {
+        "THE DEAD DANCE": "The Dead Dance"
     }
 }
