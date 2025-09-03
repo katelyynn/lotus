@@ -30,7 +30,7 @@ body:
     id: sources
     attributes:
       label: Sources
-      description: Can you provide reputable sources where this correct capitalisation is present? (One source can work for all or some tracks)
+      description: Can you provide reputable sources where this correct capitalisation is present? (One source can work for all or some tracks) (RateYourMusic and MusicBrainz are invalid, check README)
       placeholder: "E.g. https://open.spotify.com/album/08MsbKas4UJKhbJlAnAyfB"
     validations:
       required: true
