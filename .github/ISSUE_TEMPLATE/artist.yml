@@ -27,6 +27,6 @@ body:
     id: sources
     attributes:
       label: Sources
-      description: Can you provide sources where this capitalisation is present?
+      description: Can you provide sources where this capitalisation is present? (RateYourMusic and MusicBrainz are invalid, check README)
     validations:
       required: true
