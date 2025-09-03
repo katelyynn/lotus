@@ -1,5 +1,5 @@
-name: Multiple Tracks for an Artist/Album
-description: Correct capitalisation for many tracks by one artist or on one album
+name: Multiple Albums/Tracks for one Artist/Album
+description: Correct capitalisation for many tracks and albums by one artist, or many tracks on one album
 labels: ['type:album_track']
 body:
   - type: textarea
