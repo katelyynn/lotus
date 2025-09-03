@@ -558,6 +558,7 @@
     },
     "falling in reverse": {
         "god is a weapon": "God Is a Weapon",
+        "God Is A Weapon": "God Is a Weapon",
         "GOD is a weapon (feat. MARILYN MANSON)": "God Is a Weapon (feat. Marilyn Manson)",
         "I'm Not A Vampire": "I'm Not a Vampire",
         "No Fear": "NO FEAR",
@@ -605,5 +606,164 @@
     },
     "efterklang": {
         "Told To Be Fine": "Told to Be Fine"
+    },
+    "agnostic front": {
+        "Black And Blue": "Black and Blue",
+        "Casualty Of The Times": "Casualty of the Times",
+        "Conquer And Divide": "Conquer and Divide",
+        "Dead To Me": "Dead to Me",
+        "Fall Of The Parasite": "Fall of the Parasite",
+        "It's For Life": "It's for Life",
+        "Liberty & Justice For...": "Liberty & Justice for...",
+        "More Than A Memory": "More Than a Memory",
+        "Now And Forever": "Now and Forever",
+        "Only In America": "Only in America",
+        "Pull The Trigger": "Pull the Trigger",
+        "Reasonable DOubt": "Reasonable Doubt",
+        "So Pure To Me": "So Pure to Me",
+        "Test Of Time": "Test of Time",
+        "Until The Day I Die": "Until the Day I Die",
+        "Us Against The World": "Us Against the World",
+        "We Walk The Line": "We Walk the Line",
+        "We Want The Truth": "We Want the Truth"
+    },
+    "avenged sevenfold": {
+        "A Little Piece Of Heaven - Live": "A Little Piece of Heaven - Live",
+        "Almost Easy - LIVE": "Almost Easy - Live",
+        "Bat Country - Live At Hammerstein Ballroom": "Bat Country - Live at Hammerstein Ballroom",
+        "Hail To The King": "Hail to the King",
+        "Hail To The King: Deathbat (Original Video Game Soundtrack)": "Hail to the King: Deathbat (Original Video Game Soundtrack)",
+        "Life Is But A Dream...": "Life Is But a Dream...",
+        "Shepherd Of Fire": "Shepherd of Fire",
+        "Waking The Fallen": "Waking the Fallen",
+        "Waking The Fallen: Resurrected": "Waking the Fallen: Resurrected",
+        "Welcome To The Family": "Welcome to the Family"
+    },
+    "crystal fairy": {
+        "Drugs On The Bus": "Drugs on the Bus"
+    },
+    "descendents": {
+        "All": "ALL",
+        "All-O-Gistics": "ALL-o-Gistics"
+    },
+    "fex": {
+        "Subways of your Mind": "Subways of Your Mind"
+    },
+    "god forbid": {
+        "Anti-hero": "Anti-Hero",
+        "A Reflection Of The Past": "A Reflection of the Past",
+        "Bat The Angels": "Bat the Angels",
+        "Beneath The Scars Of Glory And Progression": "Beneath the Scars of Glory and Progression",
+        "chains of humanity - live": "Chains of Humanity - Live",
+        "Dawn Of The Millenia": "Dawn of the Millenia",
+        "Empire Of The Gun": "Empire of the Gun",
+        "Force-fed": "Force-Fed",
+        "force fed - live": "Force Fed - Live",
+        "Judge The Blood": "Judge the Blood",
+        "Reject The Sickness": "Reject the Sickness",
+        "Reject The Sickness (Live)": "Reject the Sickness (Live)",
+        "War Of Attrition": "War of Attrition",
+        "Welcome to the Apocalypse (preamble)": "Welcome to the Apocalypse (Preamble)"
+    },
+    "madball": {
+        "Beacon Of Light": "Beacon of Light",
+        "Face To Face": "Face to Face",
+        "For The Cause": "For the Cause",
+        "For The Judged": "For the Judged",
+        "Infiltrate The System": "Infiltrate the System",
+        "Lesson Of Life": "Lesson of Life",
+        "Liberty Or Death": "Liberty or Death",
+        "Live Or Die": "Live or Die",
+        "Moment Of Truth": "Moment of Truth",
+        "Nothing To Me": "Nothing to Me",
+        "Smell The Bacon (What's With You?)": "Smell the Bacon (What's with You?)",
+        "Temptation Or Restraint": "Temptation or Restraint",
+        "Waste Of Time": "Waste of Time"
+    },
+    "ozzy osbourne": {
+        "I Don't Want To Change The World": "I Don't Want to Change the World",
+        "Pictures Of Matchstick Men (With Type O Negative)": "Pictures of Matchstick Men (with Type O Negative)",
+        "Running Out Of Time": "Running Out of Time",
+        "Waiting For Darkness": "Waiting for Darkness",
+        "You Can't Kill Rock And Roll": "You Can't Kill Rock and Roll",
+        "You Looking At Me, Looking At You": "You Looking at Me, Looking at You"
+    },
+    "panic! at the disco":
+    {
+        "Behind The Sea - Alternate Version": "Behind the Sea - Alternate Version",
+        "Do You Know What I'm Seeing? (alternate version)": "Do You Know What I'm Seeing? (Alternate Version)",
+        "Nine in the Afternoon - Single Mix": "Nine in the Afternoon",
+        "She Had The World - Alternate Version": "She Had the World - Alternate Version",
+        "She Had the World (alternate version)": "She Had the World (Alternate Version)"
+    },
+    "pinkly smooth": {
+        "Nosferatu Does A Hefty Dance": "Nosferatu Does a Hefty Dance"
+    },
+    "radiohead": {
+        "2 + 2 = 5 - live": "2 + 2 = 5 - Live",
+        "A Punch Up At A Wedding": "A Punch Up at a Wedding",
+        "a wolf at the door - live": "A Wolf at the Door - Live",
+        "Everything in its right place - Live in France": "Everything in Its Right Place - Live in France",
+        "Exit Music (for a Film)": "Exit Music (For a Film)",
+        "Go to Sleep - live": "Go to Sleep - Live",
+        "I Will - live": "I Will - Live",
+        "I will - los angeles version": "I Will - Los Angeles Version",
+        "Like spinning plates - Live": "Like Spinning Plates - Live",
+        "Myxomatosis - live": "Myxomatosis - Live",
+        "Sail to the Moon - live": "Sail to the Moon - Live",
+        "The Gloaming - live": "The Gloaming - Live",
+        "Where I End and You begin - live": "Where I End and You Begin - Live"
+    },
+    "rancid": {
+        "Up To No Good": "Up to No Good",
+    },
+    "sausage": {
+        "Caution Should Be Used While Driving A Motor Vehicle Or Operating Machinery": "Caution Should Be Used While Driving a Motor Vehicle or Operating Machinery",
+        "Girls For Single Men": "Girls for Single Men",
+        "Here's To The Man": "Here's to the Man",
+        "Prelude To Fear": "Prelude to Fear"
+    },
+    "the human abstract": {
+        "A Dead World At Sunrise": "A Dead World at Sunrise",
+        "Calm In The Chaos": "Calm in the Chaos",
+        "Counting Down The Days": "Counting Down the Days",
+        "Echelons To Molotovs": "Echelons to Molotovs",
+        "Echoes Of The Spirit": "Echoes of the Spirit",
+        "Horizon To Zenith": "Horizon to Zenith",
+        "Movement From Discord": "Movement from Discord",
+        "Procession Of The Fates": "Procession of the Fates",
+        "Self Portraits Of The Instincts": "Self Portraits of the Instincts",
+        "This World Is A Tomb": "This World Is a Tomb",
+        "Vela, Together We Await The Storm": "Vela, Together We Await the Storm"
+    },
+    "the police": {
+        "Bring On The Night": "Bring on the Night",
+        "Canary In A Coalmine": "Canary in a Coalmine",
+        "Don't Stand So Close To Me - Remastered 2003": "Don't Stand So Close to Me - Remastered 2003",
+        "Don't Stand So Close To Me (Remastered 2003)": "Don't Stand So Close to Me (Remastered 2003)",
+        "Driven To Tears": "Driven to Tears",
+        "Every bomb you make": "Every Bomb You Make",
+        "Ghost In The Machine": "Ghost in the Machine",
+        "Man In A Suitcase": "Man in a Suitcase",
+        "Message In A Bottle - Live From River Plate Stadium, Buenos Aires": "Message in a Bottle - Live from River Plate Stadium, Buenos Aires",
+        "Message In A Bottle - Remastered 2003": "Message in a Bottle - Remastered 2003",
+        "Message In A Bottle (Remastered 2003)": "Message in a Bottle (Remastered 2003)",
+        "Murder By Numbers": "Murder by Numbers",
+        "Outlandos D'Amour": "Outlandos d'Amour",
+        "Reggatta De Blanc": "Reggatta de Blanc",
+        "Shadows In The Rain": "Shadows in the Rain",
+        "When The World Is Running Down, You Make The Best Of What's Still Around": "When the World Is Running Down, You Make the Best of What's Still Around"
+    },
+    "transplants": {
+        "Back To You": "Back to You",
+        "Diamonds And Guns": "Diamonds and Guns",
+        "Down In Oakland": "Down in Oakland",
+        "In A Warzone": "In a Warzone",
+        "Nothing But A Heartache": "Nothing But a Heartache",
+        "Romper Stomper (remix)": "Romper Stomper (Remix)",
+        "See It To Believe It": "See It to Believe It",
+        "TAKE COVER": "Take Cover",
+        "Tall Cans In The Air": "Tall Cans in the Air",
+        "Weight On My Mind": "Weigh on My Mind"
     }
 }
