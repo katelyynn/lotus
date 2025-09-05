@@ -1,10 +1,10 @@
 name: Bug report
-description: Please don't submit bug reports here
+description: Please don't submit bug reports here!
 labels: []
 body:
   - type: markdown
     attributes:
-      value: "This is not the place for reporting bugs, if you are using bleh please head to [this page](https://github.com/katelyynn/bleh/issues/new/choose)"
+      value: "This is not the place for reporting bugs. If you have a bug report or feature request for bleh, please head to [this page](https://github.com/katelyynn/bleh/issues/new/choose)"
   - type: input
     id: none
     attributes:
