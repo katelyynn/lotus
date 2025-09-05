@@ -14,7 +14,7 @@ body:
     id: correction
     attributes:
       label: Correction
-      description: How should these tracks be capitalised instead? (In the same order as the current list)
+      description: How should these tracks be capitalised instead? (In the same order as the above list)
       placeholder: "E.g. Run Away With Me\nEmotion\nI Really Like You"
     validations:
       required: true
