@@ -31,6 +31,6 @@ body:
     attributes:
       label: Sources
       description: Can you provide reputable sources where this correct capitalisation is present? (RYM and MusicBrainz are invalid, check README)
-      placeholder: "E.g. https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
+      placeholder: "e.g. https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
     validations:
       required: true
