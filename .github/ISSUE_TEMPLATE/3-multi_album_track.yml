@@ -3,11 +3,9 @@ description: Correct capitalisation for many tracks and albums by one artist, or
 labels: ['type:album_track']
 body:
   - type: markdown
+      id: none
       attributes:
         value: "If the following tracks or albums are by different artists, please create separate issues for each artist."
-  - type: input
-    id: none
-    attributes:
   - type: textarea
     id: current
     attributes:
