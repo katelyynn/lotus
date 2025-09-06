@@ -4,8 +4,8 @@ labels: ['type:album_track']
 body:
   - type: markdown
     id: none
-      attributes:
-        value: "If the following tracks or albums are by different artists, please create separate issues for each artist."
+    attributes:
+      value: "If the following tracks or albums are by different artists, please create separate issues for each artist."
   - type: textarea
     id: current
     attributes:
