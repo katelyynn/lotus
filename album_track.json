@@ -1,5 +1,5 @@
 {
-    "version": "2025.0906",
+    "version": "2025.0907",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -775,6 +775,13 @@
         "Weight On My Mind": "Weigh on My Mind"
     },
     "lady gaga": {
-        "THE DEAD DANCE": "The Dead Dance"
+        "THE DEAD DANCE": "The Dead Dance",
+        "Can’t Stop The High": "Can’t Stop the High"
+    },
+    "sabrina carpenter": {
+        "Such A Funny Way": "Such a Funny Way"
+    },
+    "roro": {
+        "hot hits": "Hot Hits"
     }
 }
