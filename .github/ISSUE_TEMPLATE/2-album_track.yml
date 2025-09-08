@@ -6,14 +6,16 @@ body:
     id: current
     attributes:
       label: Current
-      description: How is this currently capitalised?
+      description: How is this track or album title currently capitalised?
+      placeholder: "e.g. mY aNtI-aIrCrAfT fRiEnD"
     validations:
       required: true
   - type: input
     id: correction
     attributes:
       label: Correction
-      description: How should this be capitalised?
+      description: How should this track or album title be capitalised instead?
+      placeholder: "e.g. my anti-aircraft friend"
     validations:
       required: true
   - type: input
@@ -21,12 +23,14 @@ body:
     attributes:
       label: Link
       description: Can you provide the link to the page on Last.fm?
+      placeholder: "e.g. https://www.last.fm/music/Julie/mY+aNtI-aIrCrAfT+fRiEnD"
     validations:
       required: true
   - type: textarea
     id: sources
     attributes:
       label: Sources
-      description: Can you provide reputable sources where this correct capitalisation is present?
+      description: Can you provide reputable sources where this correct capitalisation is present? (RYM and MusicBrainz are invalid, check README)
+      placeholder: "e.g. https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
     validations:
       required: true
