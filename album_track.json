@@ -543,6 +543,7 @@
         "Without A Sound": "Without a Sound"
     },
     "the mars volta": {
+        "A plague upon your hissing children", "A Plague Upon Your Hissing Children",
         "Cue the Sun": "Cue the sun",
         "Cue the Sun (Reprise)": "Cue the sun (reprise)",
         "fin": "Fin",
@@ -550,6 +551,7 @@
         "Inertiatic esp": "Inertiatic ESP",
         "Lucro Sucio": "Lucro sucio",
         "Roulette Dares (The Haunt of)": "Roulette Dares (The Haunt Of)",
+        "Tira Me A Las Aranas": "Tira Me a Las Aranas",
         "Voice in My Knives": "Voice in my knives"
     },
     "les claypool and the holy mackarel": {
@@ -806,5 +808,39 @@
     },
     "lady gaga, ariana grande": {
         "Rain on Me": "Rain On Me"
+    },
+    "body count": {
+        "COMFORTABLY NUMB": "Comfortably Numb",
+        "FUCK WHAT YOU HEARD": "Fuck What You Heard",
+        "Killin' floor": "Killin' Floor",
+        "Last breath": "Last Breath",
+        "Masters of revenge": "Masters Of Revenge",
+        "Shallow graves": "Shallow Graves",
+        "Street lobotomy": "Street Lobotomy",
+        "Surviving the game": "Surviving The Game",
+        "Who are you": "Who Are You"
+    },
+    "mild high club": {
+        "Note To Self": "Note to Self",
+        "TIMELINE": "Timeline"
+    },
+    "slipknot": {
+        "(Sic)": "(sic)",
+        "(SIC) - Molt-Injected Mix": "(sic) - Molt-Injected Mix",
+        "Before I forget - live": "Before I Forget - Live",
+        "interloper - demo": "Interloper - Demo",
+        "Me Inside (demo)": "Me Inside (Demo)",
+        "My plague - New abuse mix": "My Plague - New Abuse Mix",
+        "Only One (demo)": "Only One (Demo)",
+        "Spit it out - live": "Spit It Out - Live",
+        "the heretic anthem - live": "The Heretic Anthem - Live",
+        "Wait And Bleed - Demo": "Wait and Bleed - Demo",
+        "wait and bleed - live": "Wait and Bleed - Live",
+        "Wait And Bleed - Live Version": "Wait and Bleed - Live Version",
+        "Wait And Bleed - Terry Date Mix": "Wait and Bleed - Terry Date Mix"
+    },
+    "van halen": {
+        "Runnin' With the Devil": "Runnin' with the Devil",
+        "Where Have All The Good Times Gone!": "Where Have All the Good Times Gone!"
     }
 }
