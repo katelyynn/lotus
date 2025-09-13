@@ -1,5 +1,5 @@
 {
-    "version": "2025.0912",
+    "version": "2025.0913",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -842,5 +842,9 @@
     "van halen": {
         "Runnin' With the Devil": "Runnin' with the Devil",
         "Where Have All The Good Times Gone!": "Where Have All the Good Times Gone!"
+    },
+    "jade": {
+        "Angel of My Dreams": "Angel Of My Dreams",
+        "Natural At Disaster": "Natural at Disaster"
     }
 }
