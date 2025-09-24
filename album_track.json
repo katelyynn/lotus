@@ -1,5 +1,5 @@
 {
-    "version": "2025.0915",
+    "version": "2025.0923",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -544,13 +544,17 @@
     },
     "the mars volta": {
         "A plague upon your hissing children": "A Plague Upon Your Hissing Children",
+        "Candy And A Currant Bun": "Candy and a Currant Bun",
         "Cue the Sun": "Cue the sun",
-        "Cue the Sun (Reprise)": "Cue the sun (reprise)",
+        "Cue the Sun (reprise)": "Cue the sun (reprise)",
         "fin": "Fin",
         "Frances The Mute": "Frances the Mute",
         "Inertiatic esp": "Inertiatic ESP",
         "Lucro Sucio": "Lucro sucio",
+        "promo ep": "Promo EP",
+        "ratiplet for label": "Ratiplet for Label",
         "Roulette Dares (The Haunt of)": "Roulette Dares (The Haunt Of)",
+        "the bible and the breathalyzer": "The Bible and the Breathalyzer",
         "Tira Me A Las Aranas": "Tira Me a Las Aranas",
         "Voice in My Knives": "Voice in my knives"
     },
@@ -849,5 +853,20 @@
     },
     "twenty one pilots": {
         "drag pAth": "Drag Path"
+    },
+    "against me!": {
+        "Fuckmylife666": "FUCKMYLIFE666"
+    },
+    "blues brothers": {
+        "Briefcase Full Of Blues": "Briefcase Full of Blues"
+    },
+    "daryl hall & john oates": {
+        "Art Of Heartbreak": "Art of Heartbreak",
+        "Fall In Philadelphia": "Fall in Philadelphia",
+        "I Can't Go For That (No Can Do)": "I Can't Go for That (No Can Do)",
+        "I'm Just A Kid (Don't Make Me Feel Like A Man)" : "I'm Just a Kid (Don't Make Me Feel Like a Man)",
+        "Method Of Modern Love": "Method of Modern Love",
+        "Out Of Touch - Single Version": "Out of Touch - Single Version",
+        "Wait For Me": "Wait for Me"
     }
 }
