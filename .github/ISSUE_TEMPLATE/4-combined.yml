@@ -1,0 +1,32 @@
+name: Incorrectly combined artist profile
+description: Fix an artist being treated as multiple artists when it's actually only one
+labels: ['type:artist']
+body:
+  - type: markdown
+    id: none
+    attributes:
+      value: "If you meant to submit corrections for multiple tracks or albums by one artist, this is the wrong form."
+  - type: textarea
+    id: correction
+    attributes:
+      label: Original
+      description: What is the original artist name before it became separated
+      placeholder: "e.g. Tyler, The Creator"
+    validations:
+      required: true
+  - type: input
+    id: link
+    attributes:
+      label: Link
+      description: Can you provide the link to the artist on Last.fm?
+      placeholder: "e.g. https://www.last.fm/music/Tyler,+The+Creator"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Can you provide reasoning and a source that clarifies this is actually one artist/band/act.
+      placeholder: "e.g. Tyler goes by 'Tyler, The Creator' as his artist name but he is only one person. https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF?si=b128f469808c434c"
+    validations:
+      required: true
