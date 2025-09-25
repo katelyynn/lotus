@@ -6,7 +6,7 @@ body:
     id: none
     attributes:
       value: "If you meant to submit corrections for multiple tracks or albums by one artist, this is the wrong form."
-  - type: textarea
+  - type: input
     id: correction
     attributes:
       label: Original
