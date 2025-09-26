@@ -1,5 +1,5 @@
 {
-    "version": "2025.0925",
+    "version": "2025.0926",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -229,11 +229,13 @@
     "glaive": {
         "17250 (V2)": "17250 (v2)",
         "A Date w Karma (V1)": "a date w karma (v1)",
+        "ASHEVILLE": "Asheville",
         "Bastard (V2)": "bastard (v2)",
         "by birthright": "By Birthright",
         "count it up": "Count It Up",
         "everydog has its day": "EVERYDOG HAS ITS DAY",
         "for god and country": "For God and Country",
+        "fuck": "Fuck",
         "Hate 2 See U Cry": "hate 2 see u cry",
         "Huh": "huh",
         "knock, draw, release": "Knock, Draw, Release",
@@ -246,7 +248,10 @@
         "Que Onda": "que onda",
         "Shoreditch (Bsun N Thr6x Remix)": "shoreditch (bsun n thr6x remix)",
         "Stay + Love Story (Cover)": "stay + love story (cover)",
-        "SYNOPSIS (demo)": "synopsis (demo)"
+        "SYNOPSIS (demo)": "synopsis (demo)",
+        "veni vidi vici": "Veni Vidi Vici",
+        "we don't leave the house": "We Don't Leave the House",
+        "y’all": "Y’all"
     },
     "god forbid": {
         "Anti-hero": "Anti-Hero",
@@ -354,7 +359,6 @@
         "Shadow of a Man": "Shadow Of A Man",
         "Sine from Above": "Sine From Above",
         "Sine from Above (with Elton John)": "Sine From Above (with Elton John)",
-        "THE DEAD DANCE": "The Dead Dance",
         "The Edge of Glory": "The Edge Of Glory",
         "Top Gun: Maverick (Music from the Motion Picture)": "Top Gun: Maverick (Music From The Motion Picture)",
         "Yoü and I": "Yoü And I"
@@ -525,6 +529,9 @@
     },
     "pinkly smooth": {
         "Nosferatu Does A Hefty Dance": "Nosferatu Does a Hefty Dance"
+    },
+    "pitty": {
+        "água contida": "Água Contida"
     },
     "playboi carti": {
         "Alive": "ALIVE",
@@ -850,6 +857,7 @@
         "DARLING, I": "Darling, I",
         "NOID": "Noid",
         "Sorry Not Sorry": "SORRY NOT SORRY",
+        "SUGAR ON MY TONGUE": "Sugar On My Tongue",
         "ST. CHROMA": "St. Chroma",
         "ST. CHROMA (feat. Daniel Caesar)": "St. Chroma (feat. Daniel Caesar)",
         "STICKY (feat. GloRilla, Sexyy Red & Lil Wayne)": "Sticky (feat. GloRilla, Sexyy Red & Lil Wayne)",
