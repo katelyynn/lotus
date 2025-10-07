@@ -1,11 +1,12 @@
 {
-    "version": "2025.0928",
+    "version": "2025.1007",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
     "21 savage": {
         "Pop Ur Shit": "pop ur shit",
-        "Savage Mode II": "SAVAGE MODE II"
+        "Savage Mode II": "SAVAGE MODE II",
+        "American Dream": "american dream"
     },
     "2hollis": {
         "Afraid (feat. Nate Sib)": "afraid (feat. nate sib)",
@@ -122,6 +123,11 @@
     "charli xcx": {
         "guess featuring billie eilish": "Guess featuring billie eilish",
         "talk talk featuring troye sivan": "Talk talk featuring Troye Sivan"
+    },
+    "che": {
+        "marceline": "MARCELINE",
+        "diE yoUNg": "DIE YOUNG",
+        "Doe Deer": "DOE DEER"
     },
     "cky": {
         "Attached At The Hip": "Attached at the Hip",
@@ -883,7 +889,9 @@
         "Sulky Baby": "sulky baby"
     },
     "young thug": {
-        "Pick up the Phone": "pick up the phone"
+        "Pick up the Phone": "pick up the phone",
+        "Pick Up the Phone (feat. Quavo)": "pick up the phone (feat. Quavo)",
+        "Jeffery": "JEFFERY"
     },
     "yui horie": {
         "Silky Heart": "silky heart"
