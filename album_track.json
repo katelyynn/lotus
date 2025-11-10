@@ -1,5 +1,5 @@
 {
-    "version": "2025.1024",
+    "version": "2025.1108",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -46,6 +46,9 @@
         "The Greater Of Two Evils": "The Greater of Two Evils",
         "Think About An End": "Think About an End",
         "We've Come For You All": "We've Come for You All"
+    },
+    "atena": {
+        "Dreammode": "DREAMMODE"
     },
     "avenged sevenfold": {
         "A Little Piece Of Heaven - Live": "A Little Piece of Heaven - Live",
@@ -150,6 +153,9 @@
         "Gossip": "gossip",
         "GOSSIP": "gossip"
     },
+    "cozmez": {
+        "Where They At": "Where they at"
+    },
     "cro-mags": {
         "The Age Of Quarrel": "the Age of Quarrel"
     },
@@ -227,6 +233,9 @@
     },
     "fex": {
         "Subways of your Mind": "Subways of Your Mind"
+    },
+    "fifty fifty": {
+        "LOVE TUNE": "Love Tune"
     },
     "future": {
         "AIN'T NO LOVE": "Ain't No Love",
@@ -308,6 +317,9 @@
         "glum": "Glum",
         "WHIM": "Whim"
     },
+    "idolish7": {
+        "RESTART POINTER": "RESTART POiNTER"
+    },
     "ifeye": {
         "SWEET TANG": "sweet tang"
     },
@@ -351,6 +363,9 @@
         "April’s-Bloom": "april’s-bloom",
         "Pushing Daises": "pushing daises",
         "Starjump / Kit": "starjump/kit"
+    },
+    "kanaria": {
+        "Envy Baby": "ENVY BABY"
     },
     "kanye west": {
         "All Of The Lights (feat. Rihanna, KiD CuDi, Fergie, Alicia Keys & Elton John)": "All of the Lights (feat. Rihanna, Kid Cudi, Fergie, Alicia Keys & Elton John)",
@@ -410,6 +425,9 @@
     },
     "lady gaga, ariana grande": {
         "Rain on Me": "Rain On Me"
+    },
+    "leroy": {
+        "dariacore": "Dariacore"
     },
     "les claypool and the holy mackerel": {
         "Highball With The Devil": "Highball with the Devil",
@@ -703,6 +721,9 @@
     "spiritbox": {
         "TSUNAMI SEA": "Tsunami Sea"
     },
+    "stray kids": {
+        "Ceremony": "CEREMONY"
+    },
     "suicidal tendencies": {
         "Born To Be Cyco": "Born to Be Cyco",
         "Built To Survive": "Built to Survive",
@@ -870,6 +891,9 @@
         "Tira Me A Las Aranas": "Tira Me a Las Aranas",
         "Voice in My Knives": "Voice in my knives"
     },
+    "the mist": {
+        "The dark side of the soul (An anatomy of the soul)": "The Dark Side of the Soul (An Anatomy of the Soul)"
+    },
     "the police": {
         "Bring On The Night": "Bring on the Night",
         "Canary In A Coalmine": "Canary in a Coalmine",
@@ -927,6 +951,10 @@
         "Mamacita (Feat. Rich Homie Quan & Young Thug)": "Mamacita (feat. Rich Homie Quan & Young Thug)",
         "Mamacita (live)": "MAMACITA (Live)"
     },
+    "trigger": {
+        "Crescent Rise": "Crescent rise",
+        "In the Meantime": "In the meantime"
+    },
     "twenty one pilots": {
         "drag pAth": "Drag Path"
     },
@@ -958,19 +986,37 @@
     "veggietales": {
         "we are the grapes of wrath": "We Are The Grapes of Wrath"
     },
+    "vivid bad squad": {
+        "Beyond the Way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)": "Beyond the way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)"
+    },
     "wallie the sensei": {
         "110 South": "110 SOUTH"
     },
     "weezer": {
         "WHAT HAPPENS After you?": "What Happens After You?"
     },
+    "wow! wow! wubbzy!": {
+        "Ask For A Little Help": "Ask for a Little Help",
+        "By The Book": "By the Book",
+        "Gift Of Joy": "Gift of Joy",
+        "Life Is Filled With Treasure": "Life Is Filled with Treasure",
+        "Made By You": "Made by You",
+        "One Step At A Time": "One Step at a Time",
+        "Paint a picture": "Paint a Picture",
+        "So Much To Do": "So Much to Do",
+        "Too Much Of A Good Thing": "Too Much of a Good Thing",
+        "We're All Together (But We're Not The Same)": "We're All Together (But We're Not the Same)",
+        "We're Not The Same": "We're Not the Same",
+        "You're A Star": "You're a Star",
+        "You're The Coolest": "You're the Coolest"
+    },
     "yeule": {
         "Sulky Baby": "sulky baby"
     },
     "young thug": {
+        "Jeffery": "JEFFERY",
         "Pick up the Phone": "pick up the phone",
-        "Pick Up the Phone (feat. Quavo)": "pick up the phone (feat. Quavo)",
-        "Jeffery": "JEFFERY"
+        "Pick Up the Phone (feat. Quavo)": "pick up the phone (feat. Quavo)"
     },
     "yui horie": {
         "Silky Heart": "silky heart"
@@ -981,5 +1027,11 @@
     "yunosa": {
         "ALL 4 IT": "all 4 it",
         "All 4 It - Single": "all 4 it - Single"
+    },
+    "九条 天 (cv.斉藤壮馬)": {
+        "Up To the Nines": "Up to the nines"
+    },
+    "七瀬 陸 (CV.小野賢章)": {
+        "SEPTET For...": "SEPTET for..."
     }
 }
