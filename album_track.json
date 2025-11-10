@@ -93,6 +93,11 @@
         "Don't Do Drugz": "DON'T DO DRUGZ",
         "OTHERSIDE (FeaT. SICKBOYRARI)": "OTHERSIDE (feat. Sickboyrari)"
     },
+    "bloodclot": {
+        "Asleep At The Wheel": "Asleep at the Wheel",
+        "Seeds Of Destruction": "Seeds of Destruction",
+        "Stirring In The Hearts And Minds": "Stirring in the Hearts and Minds"
+    },
     "blues brothers": {
         "Briefcase Full Of Blues": "Briefcase Full of Blues"
     },
@@ -157,7 +162,16 @@
         "Where They At": "Where they at"
     },
     "cro-mags": {
-        "The Age Of Quarrel": "the Age of Quarrel"
+        "Death In The Womb": "Death In the Womb",
+        "Down but not Out": "Down but Not Out",
+        "Eyes Of Tomorrow": "Eyes of Tomorrow",
+        "Say Good-Bye To Mother Earth": "Say Good-Bye to Mother Earth",
+        "Say Goodbye To Mother Earth": "Say Goodbye to Mother Earth",
+        "See The Signs": "See the Signs",
+        "The Age Of Quarrel": "the Age of Quarrel",
+        "The Other Side Of Madness": "The Other Side of Madness",
+        "The Other Side of Madness (rat soup version '93)": "The Other Side of Madness (Rat Soup Version '93)",
+        "War On The Streets": "War On the Streets"
     },
     "crystal fairy": {
         "Drugs On The Bus": "Drugs on the Bus"
@@ -312,6 +326,11 @@
     "hans gruber and the die hards": {
         "Hans Gruber and The Die Hards": "Hans Gruber and the Die Hards",
         "With A Vengeance": "With a Vengeance"
+    },
+    "harley flanagan": {
+        "Fighting The Urge To Kill": "Fighting the Urge to Kill",
+        "I Come In Peace": "I Come in Peace",
+        "Mess With The Bull": "Mess With the Bull"
     },
     "hayley williams": {
         "glum": "Glum",
