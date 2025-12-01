@@ -1,5 +1,5 @@
 {
-    "version": "2025.1108",
+    "version": "2025.1201",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -208,6 +208,7 @@
         "Greatest Hits": "greatest hits"
     },
     "efterklang": {
+        "Between The Walls": "Between the Walls",
         "Told To Be Fine": "Told to Be Fine"
     },
     "ericdoa": {
@@ -373,6 +374,15 @@
         "Melrose": "MELROSE",
         "White Lines": "WHITE LINES"
     },
+    "kemetic just": {
+        "Highways and Mindwaves": "Highways And Mindwaves",
+        "another swing": "Another Swing",
+        "romance with you": "Romance With You",
+        "one love": "One Love",
+        "alright": "Alright",
+        "answers": "Answers",
+        "Highways and Mindwaves (Ian Pooley Remix)": "Highways And Mindwaves (Ian Pooley Remix)"
+    },
     "ken carson": {
         "Delusional": "delusional",
         "Leather Jacket": "leather jacket",
@@ -430,6 +440,9 @@
         "Highball With The Devil": "Highball with the Devil",
         "Me And Chuck": "Me and Chuck",
         "Running The Gauntlet": "Running the Gauntlet"
+    },
+    "logic": {
+        "catch me if you can": "Catch Me If You Can"
     },
     "lucy bedroque": {
         "unmusique": "Unmusique"
@@ -698,6 +711,9 @@
         "Wait And Bleed - Live Version": "Wait and Bleed - Live Version",
         "Wait And Bleed - Terry Date Mix": "Wait and Bleed - Terry Date Mix"
     },
+    "sophie": {
+        "Oil of Every Pearl's Un-Insides": "OIL OF EVERY PEARL'S UN-INSIDES"
+    },
     "sparta": {
         "Assemble The Empire": "Assemble the Empire",
         "Breaking The Broken": "Breaking the Broken",
@@ -740,6 +756,9 @@
         "Where's The Truth": "Where's the Truth?",
         "Which Way To Free?": "Which Way to Free?",
         "Won't Fall In Love Today": "Won't Fall in Love Today"
+    },
+    "swans": {
+        "No More Of This": "No More of This"
     },
     "taylor swift": {
         "All of the Girls You Loved Before": "All Of The Girls You Loved Before",
@@ -852,7 +871,10 @@
         "You’re on Your Own, Kid": "You’re On Your Own, Kid"
     },
     "the dodos": {
-        "Time To Die": "Time to Die"
+        "Paint The Rust": "Paint the Rust",
+        "Red And Purple": "Red and Purple",
+        "Time To Die": "Time to Die",
+        "This Is A Business": "This Is a Business" 
     },
     "the human abstract": {
         "A Dead World At Sunrise": "A Dead World at Sunrise",
@@ -992,6 +1014,9 @@
     "weezer": {
         "WHAT HAPPENS After you?": "What Happens After You?"
     },
+    "westside gunn": {
+        "Pray For Paris": "Pray for Paris"
+    },
     "wow! wow! wubbzy!": {
         "Ask For A Little Help": "Ask for a Little Help",
         "By The Book": "By the Book",
@@ -1006,6 +1031,10 @@
         "We're Not The Same": "We're Not the Same",
         "You're A Star": "You're a Star",
         "You're The Coolest": "You're the Coolest"
+    },
+    "yes": {
+        "Going For The One - Rehearsal": "Going for the One - Rehearsal",
+        "Turn Of The Century - Rehearsal": "Turn of the Century - Rehearsal"
     },
     "yeule": {
         "Sulky Baby": "sulky baby"
