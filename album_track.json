@@ -1,5 +1,5 @@
 {
-    "version": "2025.1201",
+    "version": "2026.0109",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -11,6 +11,9 @@
     "2hollis": {
         "Afraid (feat. Nate Sib)": "afraid (feat. nate sib)",
         "TEENAGE SOLDIER": "teenage soldier"
+    },
+    "621 gecs": {
+        "Femboifoxxx": "femboifoxxx"
     },
     "afi": {
         "Silver Bleeds The Black Sun...": "Silver Bleeds the Black Sun..."
@@ -62,6 +65,12 @@
         "Waking The Fallen: Resurrected": "Waking the Fallen: Resurrected",
         "Welcome To The Family": "Welcome to the Family"
     },
+    "bad brains": {
+        "I Against I": "i against i"
+    },
+    "bad religion": {
+        "New Maps Of Hell (Deluxe Edition)": "New Maps of Hell (Deluxe Edition)"
+    },
     "beabadoobee": {
         "A CRUEL AFFAIR": "A Cruel Affair",
         "ever seen": "Ever Seen",
@@ -89,6 +98,11 @@
         "Drama (feat. Charli XCX)": "Drama (feat. Charli xcx)",
         "Don't Do Drugz": "DON'T DO DRUGZ",
         "OTHERSIDE (FeaT. SICKBOYRARI)": "OTHERSIDE (feat. Sickboyrari)"
+    },
+    "bloodclot": {
+        "Asleep At The Wheel": "Asleep at the Wheel",
+        "Seeds Of Destruction": "Seeds of Destruction",
+        "Stirring In The Hearts And Minds": "Stirring in the Hearts and Minds"
     },
     "blues brothers": {
         "Briefcase Full Of Blues": "Briefcase Full of Blues"
@@ -146,6 +160,9 @@
     "cokie the clown": {
         "Down With the Ship": "Down with the Ship"
     },
+    "collapsed lung": {
+        "cooler": "Cooler"
+    },
     "confidence man": {
         "Gossip": "gossip",
         "GOSSIP": "gossip"
@@ -154,13 +171,25 @@
         "Where They At": "Where they at"
     },
     "cro-mags": {
-        "The Age Of Quarrel": "the Age of Quarrel"
+        "Death In The Womb": "Death In the Womb",
+        "Down but not Out": "Down but Not Out",
+        "Eyes Of Tomorrow": "Eyes of Tomorrow",
+        "Say Good-Bye To Mother Earth": "Say Good-Bye to Mother Earth",
+        "Say Goodbye To Mother Earth": "Say Goodbye to Mother Earth",
+        "See The Signs": "See the Signs",
+        "The Age Of Quarrel": "the Age of Quarrel",
+        "The Other Side Of Madness": "The Other Side of Madness",
+        "The Other Side of Madness (rat soup version '93)": "The Other Side of Madness (Rat Soup Version '93)",
+        "War On The Streets": "War On the Streets"
     },
     "crystal fairy": {
         "Drugs On The Bus": "Drugs on the Bus"
     },
     "custard": {
         "Ringo (I feel like...)": "Ringo (I Feel Like...)"
+    },
+    "cynthoni": {
+        "theme of cynthoni": "Theme Of Cynthoni"
     },
     "dag nasty": {
         "Wig Out At Denko's": "Wig Out at Denko's"
@@ -190,7 +219,7 @@
         "Locked Club": "locked club",
         "Milk Of The Madonna": "milk of the madonna",
         "My Mind Is A Mountain": "my mind is a mountain",
-        "Private Music": "Private Music",
+        "Private Music": "private music",
         "Souvenir": "souvenir",
         "~Metal Dream": "~metal dream"
     },
@@ -229,11 +258,22 @@
         "The Drug In Me Is You": "The Drug in Me Is You",
         "Zombified": "ZOMBIFIED"
     },
+    "fennesz": {
+        "liminality": "Liminality",
+        "paroles": "Paroles"
+    },
     "fex": {
         "Subways of your Mind": "Subways of Your Mind"
     },
     "fifty fifty": {
         "LOVE TUNE": "Love Tune"
+    },
+    "food house": {
+        "Food House": "food house",
+        "Two House": "two house"
+    },
+    "frontierer": {
+        "The molten larva": "The Molten Larva"
     },
     "future": {
         "AIN'T NO LOVE": "Ain't No Love",
@@ -279,6 +319,9 @@
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
     },
+    "glume & phossa": {
+        "banshee": "Banshee"
+    },
     "god forbid": {
         "Anti-hero": "Anti-Hero",
         "A Reflection Of The Past": "A Reflection of the Past",
@@ -311,6 +354,11 @@
         "Hans Gruber and The Die Hards": "Hans Gruber and the Die Hards",
         "With A Vengeance": "With a Vengeance"
     },
+    "harley flanagan": {
+        "Fighting The Urge To Kill": "Fighting the Urge to Kill",
+        "I Come In Peace": "I Come in Peace",
+        "Mess With The Bull": "Mess With the Bull"
+    },
     "hayley williams": {
         "glum": "Glum",
         "WHIM": "Whim"
@@ -320,6 +368,27 @@
     },
     "ifeye": {
         "SWEET TANG": "sweet tang"
+    },
+    "ison": {
+        "A Golden Force": "A GOLDEN FORCE",
+        "Andromeda Skyline": "ANDROMEDA SKYLINE",
+        "Aquarian": "AQUARIAN",
+        "Aurora": "AURORA",
+        "Beings Of Light": "BEINGS OF LIGHT",
+        "Celestial": "CELESTIAL",
+        "Cosmic Drone": "COSMIC DRONE",
+        "Helios": "HELIOS",
+        "Inner-Space": "INNER-SPACE",
+        "Jupiter": "JUPITER",
+        "Meridian": "MERIDIAN",
+        "Penumbra": "PENUMBRA",
+        "Peregrination": "PEREGRINATION",
+        "Radiance": "RADIANCE",
+        "Radiant Void": "RADIANT VOID",
+        "Retrograde": "RETROGRADE",
+        "Shipwrecks": "SHIPWRECKS",
+        "The Fifth World": "THE FIFTH WORLD",
+        "waves": "WAVES"
     },
     "jade": {
         "Angel of My Dreams": "Angel Of My Dreams",
@@ -339,6 +408,9 @@
     },
     "jid": {
         "glOry": "Glory"
+    },
+    "jim noir": {
+        "Tower Of Love": "Tower of Love"
     },
     "juice wrld": {
         "Armed and Dangerous": "Armed And Dangerous",
@@ -361,6 +433,10 @@
         "April’s-Bloom": "april’s-bloom",
         "Pushing Daises": "pushing daises",
         "Starjump / Kit": "starjump/kit"
+    },
+    "kairikibear": {
+        "Anatasama": "ANATASAMA",
+        "Mental Chainsaw": "MENTAL CHAINSAW"
     },
     "kanaria": {
         "Envy Baby": "ENVY BABY"
@@ -450,6 +526,11 @@
     "m1v": {
         "revolution revolution": "revolution Revolution"
     },
+    "mac miller": {
+        "MANAKINS": "Manakins",
+        "RICK'S PIANO": "Rick's Piano",
+        "STONED": "Stoned"
+    },
     "madball": {
         "Beacon Of Light": "Beacon of Light",
         "Face To Face": "Face to Face",
@@ -471,6 +552,9 @@
     "marina & the diamonds": {
         "Froot": "FROOT"
     },
+    "mf doom": {
+        "that’s that": "That’s That"
+    },
     "mild high club": {
         "Note To Self": "Note to Self",
         "TIMELINE": "Timeline"
@@ -488,6 +572,13 @@
         "Touched": "touched",
         "What You Want": "what you want",
         "When You Sleep": "when you sleep"
+    },
+    "my chemical romance": {
+        "It's Not A Fashion Statement, It's A Deathwish - 2025 Mix": "It's Not a Fashion Statement, It's a Deathwish - 2025 Mix",
+        "Thank You For The Venom - 2025 Mix": "Thank You for the Venom - 2025 Mix",
+        "The Ghost Of You - 2025 Mix": "The Ghost of You - 2025 Mix",
+        "To The End - 2025 Mix": "To the End - 2025 Mix",
+        "You Know What They Do To Guys Like Us In Prison - 2025 Mix": "You Know What They Do to Guys Like Us in Prison - 2025 Mix"
     },
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
@@ -600,10 +691,15 @@
         "Lying Is The Most Fun A Girl Can Have Without Taking Her Clothes Off - Live In Denver": "Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off - Live In Denver",
         "Middle of a Breakup": "Middle Of A Breakup",
         "Nails For Breakfast, Tacks For Snacks - Live In Denver": "Nails for Breakfast, Tacks for Snacks - Live In Denver",
+        "One this time": "One This Time",
         "She Had The World - Alternate Version": "She Had the World - Alternate Version",
         "She Had the World (alternate version)": "She Had the World (Alternate Version)",
         "The Only Difference Between Martyrdom And Suicide Is Press Coverage - Live In Denver": "The Only Difference Between Martyrdom and Suicide Is Press Coverage - Live In Denver",
         "There's A Good Reason These Tables Are Numbered Honey, You Just Haven't Thought Of It Yet - Live In Denver": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet - Live In Denver"
+    },
+    "pantera": {
+        "Clash With Reality": "Clash with Reality",
+        "Cowboys From Hell": "Cowboys from Hell"
     },
     "paramore": {
         "Running Out of Time": "Running Out Of Time"
@@ -913,6 +1009,14 @@
     "the mist": {
         "The dark side of the soul (An anatomy of the soul)": "The Dark Side of the Soul (An Anatomy of the Soul)"
     },
+    "the mystery lights": {
+        "Before My own": "Before My Own",
+        "CAN'T GET THROUGH TO MY HEAD": "Can't Get Through to My Head",
+        "FLOWERS IN MY HAIR, DEMONS IN MY HEAD": "Flowers in My Hair, Demons in My Head",
+        "TOO MANY GIRLS": "Too Many Girls",
+        "Too Tough To Bear": "Too Tough to Bear",
+        "What Happens When You Turn The Devil Down": "What Happens When You Turn the Devil Down"
+    },
     "the police": {
         "Bring On The Night": "Bring on the Night",
         "Canary In A Coalmine": "Canary in a Coalmine",
@@ -1001,6 +1105,9 @@
     "van halen": {
         "Runnin' With the Devil": "Runnin' with the Devil",
         "Where Have All The Good Times Gone!": "Where Have All the Good Times Gone!"
+    },
+    "various artists": {
+        "Modules Three": "MODULES three"
     },
     "veggietales": {
         "we are the grapes of wrath": "We Are The Grapes of Wrath"
