@@ -1,5 +1,5 @@
 {
-    "version": "2025.1201",
+    "version": "2026.0109",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -11,6 +11,9 @@
     "2hollis": {
         "Afraid (feat. Nate Sib)": "afraid (feat. nate sib)",
         "TEENAGE SOLDIER": "teenage soldier"
+    },
+    "621 gecs": {
+        "Femboifoxxx": "femboifoxxx"
     },
     "afi": {
         "Silver Bleeds The Black Sun...": "Silver Bleeds the Black Sun..."
@@ -157,6 +160,9 @@
     "cokie the clown": {
         "Down With the Ship": "Down with the Ship"
     },
+    "collapsed lung": {
+        "cooler": "Cooler"
+    },
     "confidence man": {
         "Gossip": "gossip",
         "GOSSIP": "gossip"
@@ -181,6 +187,9 @@
     },
     "custard": {
         "Ringo (I feel like...)": "Ringo (I Feel Like...)"
+    },
+    "cynthoni": {
+        "theme of cynthoni": "Theme Of Cynthoni"
     },
     "dag nasty": {
         "Wig Out At Denko's": "Wig Out at Denko's"
@@ -249,11 +258,22 @@
         "The Drug In Me Is You": "The Drug in Me Is You",
         "Zombified": "ZOMBIFIED"
     },
+    "fennesz": {
+        "liminality": "Liminality",
+        "paroles": "Paroles"
+    },
     "fex": {
         "Subways of your Mind": "Subways of Your Mind"
     },
     "fifty fifty": {
         "LOVE TUNE": "Love Tune"
+    },
+    "food house": {
+        "Food House": "food house",
+        "Two House": "two house"
+    },
+    "frontierer": {
+        "The molten larva": "The Molten Larva"
     },
     "future": {
         "AIN'T NO LOVE": "Ain't No Love",
@@ -298,6 +318,9 @@
         "veni vidi vici": "Veni Vidi Vici",
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
+    },
+    "glume & phossa": {
+        "banshee": "Banshee"
     },
     "god forbid": {
         "Anti-hero": "Anti-Hero",
@@ -346,6 +369,27 @@
     "ifeye": {
         "SWEET TANG": "sweet tang"
     },
+    "ison": {
+        "A Golden Force": "A GOLDEN FORCE",
+        "Andromeda Skyline": "ANDROMEDA SKYLINE",
+        "Aquarian": "AQUARIAN",
+        "Aurora": "AURORA",
+        "Beings Of Light": "BEINGS OF LIGHT",
+        "Celestial": "CELESTIAL",
+        "Cosmic Drone": "COSMIC DRONE",
+        "Helios": "HELIOS",
+        "Inner-Space": "INNER-SPACE",
+        "Jupiter": "JUPITER",
+        "Meridian": "MERIDIAN",
+        "Penumbra": "PENUMBRA",
+        "Peregrination": "PEREGRINATION",
+        "Radiance": "RADIANCE",
+        "Radiant Void": "RADIANT VOID",
+        "Retrograde": "RETROGRADE",
+        "Shipwrecks": "SHIPWRECKS",
+        "The Fifth World": "THE FIFTH WORLD",
+        "waves": "WAVES"
+    },
     "jade": {
         "Angel of My Dreams": "Angel Of My Dreams",
         "Natural At Disaster": "Natural at Disaster"
@@ -364,6 +408,9 @@
     },
     "jid": {
         "glOry": "Glory"
+    },
+    "jim noir": {
+        "Tower Of Love": "Tower of Love"
     },
     "juice wrld": {
         "Armed and Dangerous": "Armed And Dangerous",
@@ -386,6 +433,10 @@
         "April’s-Bloom": "april’s-bloom",
         "Pushing Daises": "pushing daises",
         "Starjump / Kit": "starjump/kit"
+    },
+    "kairikibear": {
+        "Anatasama": "ANATASAMA",
+        "Mental Chainsaw": "MENTAL CHAINSAW"
     },
     "kanaria": {
         "Envy Baby": "ENVY BABY"
@@ -500,6 +551,9 @@
     },
     "marina & the diamonds": {
         "Froot": "FROOT"
+    },
+    "mf doom": {
+        "that’s that": "That’s That"
     },
     "mild high club": {
         "Note To Self": "Note to Self",
@@ -1051,6 +1105,9 @@
     "van halen": {
         "Runnin' With the Devil": "Runnin' with the Devil",
         "Where Have All The Good Times Gone!": "Where Have All the Good Times Gone!"
+    },
+    "various artists": {
+        "Modules Three": "MODULES three"
     },
     "veggietales": {
         "we are the grapes of wrath": "We Are The Grapes of Wrath"
