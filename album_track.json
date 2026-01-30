@@ -1,5 +1,5 @@
 {
-    "version": "2026.0110",
+    "version": "2026.0130",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -206,6 +206,9 @@
         "Out Of Touch - Single Version": "Out of Touch - Single Version",
         "Wait For Me": "Wait for Me"
     },
+    "dave blunts": {
+        "BIGGER": "Bigger"
+    },
     "dc the don": {
         "ReBIRTH": "REBIRTH"
     },
@@ -271,6 +274,9 @@
     "food house": {
         "Food House": "food house",
         "Two House": "two house"
+    },
+    "fred nevché & french 79": {
+        "THE UNREAL STORY OF LOU REED (Instrumental)": "The Unreal Story of Lou Reed (Instrumental)"
     },
     "frontierer": {
         "The molten larva": "The Molten Larva"
@@ -362,6 +368,9 @@
     "hayley williams": {
         "glum": "Glum",
         "WHIM": "Whim"
+    },
+    "hoba hoba spirit": {
+        "trabando": "Trabando"
     },
     "idolish7": {
         "RESTART POINTER": "RESTART POiNTER"
@@ -551,6 +560,16 @@
         "Temptation Or Restraint": "Temptation or Restraint",
         "Waste Of Time": "Waste of Time"
     },
+    "madison beer": {
+        "cOmPlExIty": "complexity",
+        "hEAlThy haBIt": "healthy habit",
+        "Locket": "locket",
+        "Make You Mine": "make you mine",
+        "nOthIng at All": "nothing at all"
+    },
+    "manarem": {
+        "Movmënt": "MOVMËNT"
+    },
     "marina": {
         "Love + Fear": "LOVE + FEAR"
     },
@@ -584,6 +603,9 @@
         "The Ghost Of You - 2025 Mix": "The Ghost of You - 2025 Mix",
         "To The End - 2025 Mix": "To the End - 2025 Mix",
         "You Know What They Do To Guys Like Us In Prison - 2025 Mix": "You Know What They Do to Guys Like Us in Prison - 2025 Mix"
+    },
+    "nelly furtado": {
+        "Loose (expanded edition)": "Loose (Expanded Edition)"
     },
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
@@ -715,6 +737,9 @@
     "pinkly smooth": {
         "Nosferatu Does A Hefty Dance": "Nosferatu Does a Hefty Dance"
     },
+    "pinocchiop": {
+        "Slowmotion": "SLoWMoTIoN"
+    },
     "pitty": {
         "água contida": "Água Contida"
     },
@@ -724,6 +749,7 @@
         "mUnYuN": "MUNYUN",
         "Music": "MUSIC",
         "Music (Sessions)": "MUSIC (Sessions)",
+        "Music (v3)": "MUSIC (v3)",
         "Rock Out": "ROCK OUT",
         "Some More": "SOME MORE"
     },
@@ -796,6 +822,9 @@
     },
     "sbtrkt": {
         "fried eggs": "Fried Eggs"
+    },
+    "sidewalks and skeletons": {
+        "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
     },
     "slipknot": {
         "(Sic)": "(sic)",
@@ -1144,12 +1173,24 @@
         "You're A Star": "You're a Star",
         "You're The Coolest": "You're the Coolest"
     },
+    "xxxtentacion": {
+        "Attention!": "ATTENTION!",
+        "Bad Vibes Forever": "bad vibes forever",
+        "Before I Realize": "before I realize",
+        "hearteater": "HEARTEATER",
+        "Introduction": "introduction",
+        "Numb The Pain": "numb the pain",
+        "voss": "Voss"
+    },
     "yes": {
         "Going For The One - Rehearsal": "Going for the One - Rehearsal",
         "Turn Of The Century - Rehearsal": "Turn of the Century - Rehearsal"
     },
     "yeule": {
         "Sulky Baby": "sulky baby"
+    },
+    "yonkagor": {
+        "I still create": "I Still Create"
     },
     "young thug": {
         "Jeffery": "JEFFERY",
@@ -1171,5 +1212,8 @@
     },
     "七瀬 陸 (CV.小野賢章)": {
         "SEPTET For...": "SEPTET for..."
+    },
+    "¥$": {
+        "Gun to mY heAd": "GUN TO MY HEAD"
     }
 }
