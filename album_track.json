@@ -1,5 +1,5 @@
 {
-    "version": "2026.0204",
+    "version": "2026.0211",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -20,6 +20,17 @@
     },
     "against me!": {
         "Fuckmylife666": "FUCKMYLIFE666"
+    },
+    "against the grain": {
+        "Against The Grain": "Against the Grain",
+        "dead weight": "Dead Weight",
+        "doubted": "Doubted",
+        "force to reckon": "Force to Reckon",
+        "instinct of survival": "Instinct of Survival",
+        "it's about you": "It's About You",
+        "last word": "Last Word",
+        "one on one": "One on One",
+        "social suicide": "Social Suicide"
     },
     "agnostic front": {
         "Black And Blue": "Black and Blue",
@@ -50,8 +61,23 @@
         "Think About An End": "Think About an End",
         "We've Come For You All": "We've Come for You All"
     },
+    "a$ap rocky": {
+        "Interrogation (Skit)": "INTERROGATION (SKIT)",
+        "Order of Protection": "ORDER OF PROTECTION",
+        "Playa": "PLAYA",
+        "Stop Snitching": "STOP SNITCHING",
+        "Stop Snitching (feat. Bossman Dlow & Sauce Walka)": "STOP SNITCHING (feat. Bossman Dlow & Sauce Walka)",
+        "Stfu": "STFU",
+        "Swat Team": "SWAT TEAM",
+        "The End": "THE END",
+        "Whiskey (Release Me)": "WHISKEY (RELEASE ME)"
+    },
     "atena": {
         "Dreammode": "DREAMMODE"
+    },
+    "atmosphere": {
+        "Godlovesugly": "GodLovesUgly",
+        "They All Get Mad At You": "They All Get Mad at You"
     },
     "avenged sevenfold": {
         "A Little Piece Of Heaven - Live": "A Little Piece of Heaven - Live",
@@ -147,6 +173,9 @@
         "diE yoUNg": "DIE YOUNG",
         "Doe Deer": "DOE DEER"
     },
+    "chicago": {
+        "25 Or 6 To 4": "25 or 6 to 4"
+    },
     "cky": {
         "Attached At The Hip": "Attached at the Hip",
         "Disengage The Simulator": "Disengage the Simulator",
@@ -174,6 +203,7 @@
         "Death In The Womb": "Death In the Womb",
         "Down but not Out": "Down but Not Out",
         "Eyes Of Tomorrow": "Eyes of Tomorrow",
+        "In The Beginning": "In the Beginning",
         "Say Good-Bye To Mother Earth": "Say Good-Bye to Mother Earth",
         "Say Goodbye To Mother Earth": "Say Goodbye to Mother Earth",
         "See The Signs": "See the Signs",
@@ -234,7 +264,7 @@
     },
     "descendents": {
         "All": "ALL",
-        "All-O-Gistics": "ALL-o-Gistics"
+        "All-O-Gistics": "ALL-O-Gistics"
     },
     "double virgo": {
         "Greatest Hits": "greatest hits"
@@ -537,6 +567,20 @@
         "Me And Chuck": "Me and Chuck",
         "Running The Gauntlet": "Running the Gauntlet"
     },
+    "linkin park": {
+        "Burn It Down": "BURN IT DOWN",
+        "Castle of Glass": "CASTLE OF GLASS",
+        "I'll Be Gone": "I'LL BE GONE",
+        "In My Remains": "IN MY REMAINS",
+        "Lies Greed Misery": "LIES GREED MISERY",
+        "Lost in the Echo": "LOST IN THE ECHO",
+        "Powerless": "POWERLESS",
+        "Roads Untraveled": "ROADS UNTRAVELED",
+        "Skin to Bone": "SKIN TO BONE",
+        "Tinfoil": "TINFOIL",
+        "Until It Breaks": "UNTIL IT BREAKS",
+        "Victimized": "VICTIMIZED"
+    },
     "logic": {
         "catch me if you can": "Catch Me If You Can"
     },
@@ -757,7 +801,8 @@
         "Music (Sessions)": "MUSIC (Sessions)",
         "Music (v3)": "MUSIC (v3)",
         "Rock Out": "ROCK OUT",
-        "Some More": "SOME MORE"
+        "Some More": "SOME MORE",
+        "Survivor": "SURVIVOR"
     },
     "primus": {
         "Animals Should Not Try To Act Like People": "Animals Should Not Try to Act Like People",
