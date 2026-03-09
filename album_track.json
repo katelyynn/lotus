@@ -64,7 +64,9 @@
     "a$ap rocky": {
         "Interrogation (Skit)": "INTERROGATION (SKIT)",
         "Order of Protection": "ORDER OF PROTECTION",
+        "Helicopter": "HELICOPTER",
         "Playa": "PLAYA",
+        "Punk Rocky": "PUNK ROCKY",
         "Stop Snitching": "STOP SNITCHING",
         "Stop Snitching (feat. Bossman Dlow & Sauce Walka)": "STOP SNITCHING (feat. Bossman Dlow & Sauce Walka)",
         "Stfu": "STFU",
@@ -414,6 +416,9 @@
     "ifeye": {
         "SWEET TANG": "sweet tang"
     },
+    "immenence": {
+        "heaven shall burn": "Heaven Shall Burn"
+    },
     "ison": {
         "A Golden Force": "A GOLDEN FORCE",
         "Andromeda Skyline": "ANDROMEDA SKYLINE",
@@ -441,6 +446,9 @@
         "Natural At Disaster": "Natural at Disaster",
         "tHaT'S sHOWbIZ BabY! THE eNCorE": "THAT'S SHOWBIZ BABY! THE ENCORE",
         "tHiS iS wHaT wE dAnCe FoR": "This Is What We Dance For"
+    },
+    "jay-z": {
+        "Dirt off Your Shoulder": "Dirt Off Your Shoulder",
     },
     "jesu": {
         "friends are evil (clean mix)": "Friends Are Evil (Clean Mix)",
@@ -653,6 +661,9 @@
         "The Ghost Of You - 2025 Mix": "The Ghost of You - 2025 Mix",
         "To The End - 2025 Mix": "To the End - 2025 Mix",
         "You Know What They Do To Guys Like Us In Prison - 2025 Mix": "You Know What They Do to Guys Like Us in Prison - 2025 Mix"
+    },
+    "nathalie cardone": {
+        "Working class": "Working Class",
     },
     "nelly furtado": {
         "Loose (expanded edition)": "Loose (Expanded Edition)"
@@ -1220,6 +1231,9 @@
     },
     "westside gunn": {
         "Pray For Paris": "Pray for Paris"
+    },
+    "wilco": {
+        "summerteeth": "Summerteeth",
     },
     "wow! wow! wubbzy!": {
         "Ask For A Little Help": "Ask for a Little Help",
