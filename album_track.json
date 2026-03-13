@@ -244,6 +244,10 @@
     "dave blunts": {
         "BIGGER": "Bigger"
     },
+    "david lee roth": {
+        "Crazy From the Heat": "Crazy from the Heat",
+        "Just A Gigolo / I Ain't Got Nobody": "Just a Gigolo / I Ain't Got Nobody"
+    },
     "dc the don": {
         "ReBIRTH": "REBIRTH"
     },
@@ -295,6 +299,7 @@
         "god is a weapon": "God Is a Weapon",
         "God Is A Weapon": "God Is a Weapon",
         "GOD is a weapon (feat. MARILYN MANSON)": "God Is a Weapon (feat. Marilyn Manson)",
+        "Guillotine IV (the Final Chapter)": "Guillotine IV (The Final Chapter)",
         "I'm Not A Vampire": "I'm Not a Vampire",
         "No Fear": "NO FEAR",
         "Raised By Wolves": "Raised by Wolves",
@@ -600,6 +605,7 @@
         "I'll Be Gone": "I'LL BE GONE",
         "In My Remains": "IN MY REMAINS",
         "Lies Greed Misery": "LIES GREED MISERY",
+        "Living Things": "LIVING THINGS",
         "Lost in the Echo": "LOST IN THE ECHO",
         "Powerless": "POWERLESS",
         "Roads Untraveled": "ROADS UNTRAVELED",
@@ -659,6 +665,17 @@
     "mild high club": {
         "Note To Self": "Note to Self",
         "TIMELINE": "Timeline"
+    },
+    "morrissey": {
+        "amaZoNa": "Amazona",
+        "bouLevARd": "Boulevard",
+        "headAcHe": "Headache",
+        "KercHing KercHiNg": "Kerching Kerching",
+        "lester baNgS": "Lester Bangs",
+        "many icebeRgs aGo": "Many Icebergs Ago",
+        "make-uP is a liE": "Make-up is a Lie",
+        "you're right, it's tiME": "You're Right, It's Time",
+        "zoom zoOM tHE little bOy": "Zoom Zoom the Little Boy"
     },
     "my bloody valentine": {
         "Blown a Wish": "blown a wish",
@@ -810,6 +827,9 @@
     },
     "paramore": {
         "Running Out of Time": "Running Out Of Time"
+    },
+    "peter tosh": {
+        "Get up, Stand Up": "Get Up, Stand Up"
     },
     "phreshboyswag": {
         "ObsessEd": "obsessed"
@@ -983,6 +1003,20 @@
     "swans": {
         "No More Of This": "No More of This"
     },
+    "syd barrett": {
+        "baby lemonade - take 1": "Baby Lemonade - Take 1",
+        "effervescing elephant - take 2": "Effervescing Elephant - Take 2",
+        "gigolo aunt - take 9": "Gigolo Aunt - Take 9",
+        "golden hair - instrumental": "Golden hair - Instrumental",
+        "GOLDEN HAIR - take 1": "Golden Hair - Take 1",
+        "it is obvious - take 3": "It Is Obvious - Take 3",
+        "it is obvious - take 5": "It Is Obvious - Take 5",
+        "late night - take 2": "Late Night - Take 2",
+        "love you - take 1": "Love You - Take 1",
+        "love you - take 3": "Love You - Take 3",
+        "She Took A Long Cold Look At Me - take 4": "She Took a Long Cold Look at Me - Take 4",
+        "waving my arms in the air - take 1": "Waving My Arms in the Air - Take 1"
+    },
     "taylor swift": {
         "All of the Girls You Loved Before": "All Of The Girls You Loved Before",
         "All Too Well (10 Minute Version) (Taylor's Version) (From the Vault)": "All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)",
@@ -1092,6 +1126,10 @@
         "You're Losing Me (From the Vault)": "You're Losing Me (From The Vault)",
         "You're on Your Own, Kid": "You're On Your Own, Kid",
         "You’re on Your Own, Kid": "You’re On Your Own, Kid"
+    },
+    "the beach boys": {
+        "little saint nick (alternate take)": "Little Saint Nick (Alternate Take)",
+        "our prayer / gee": "Our Prayer / Gee"
     },
     "the dodos": {
         "Paint The Rust": "Paint the Rust",
@@ -1253,6 +1291,15 @@
     },
     "wilco": {
         "summerteeth": "Summerteeth",
+    },
+    "will haven": {
+        "asking": "Asking",
+        "both ways": "Both Ways",
+        "choke": "Choke",
+        "fisk": "Fisk",
+        "labcoats": "Labcoats",
+        "rut": "Rut",
+        "veg": "Veg"
     },
     "wow! wow! wubbzy!": {
         "Ask For A Little Help": "Ask for a Little Help",
