@@ -1,5 +1,5 @@
 {
-    "version": "2026.0211",
+    "version": "2026.0313",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -64,7 +64,9 @@
     "a$ap rocky": {
         "Interrogation (Skit)": "INTERROGATION (SKIT)",
         "Order of Protection": "ORDER OF PROTECTION",
+        "Helicopter": "HELICOPTER",
         "Playa": "PLAYA",
+        "Punk Rocky": "PUNK ROCKY",
         "Stop Snitching": "STOP SNITCHING",
         "Stop Snitching (feat. Bossman Dlow & Sauce Walka)": "STOP SNITCHING (feat. Bossman Dlow & Sauce Walka)",
         "Stfu": "STFU",
@@ -143,6 +145,9 @@
         "Street lobotomy": "Street Lobotomy",
         "Surviving the game": "Surviving The Game",
         "Who are you": "Who Are You"
+    },
+    "boy hits car": {
+        "waves of sound across oceans of time": "Waves of Sound Across Oceans of Time"
     },
     "brakence": {
         "Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)": "drank 3 of my parents' craft beers to make eye contact with you (feat. login)",
@@ -278,6 +283,11 @@
         "Song for when the bar closes": "song for when the bar closes",
         "Throw it up": "throw it up"
     },
+    "erra": {
+        "Gore of Being": "gore of being",
+        "Silence Outlives the Earth": "silence outlives the earth",
+        "Echo Sonata": "echo sonata"
+    },
     "esbbat": {
         "DENTRO DEL ESBBAT": "Dentro del Esbat"
     },
@@ -380,6 +390,9 @@
         "War Of Attrition": "War of Attrition",
         "Welcome to the Apocalypse (preamble)": "Welcome to the Apocalypse (Preamble)"
     },
+    "goreshit": {
+        "Glitch obsessional": "glitch obsessional"
+    },
     "h2o": {
         "Cats And Dogs": "Cats and Dogs",
         "Don't forget your Roots": "Don't Forget Your Roots",
@@ -401,6 +414,11 @@
         "I Come In Peace": "I Come in Peace",
         "Mess With The Bull": "Mess With the Bull"
     },
+    "harry styles" : {
+        "Are you listening yet?": "Are You Listening Yet?",
+        "POP": "Pop",
+        "carla's song": "Carla's Song"
+    },
     "hayley williams": {
         "glum": "Glum",
         "WHIM": "Whim"
@@ -413,6 +431,9 @@
     },
     "ifeye": {
         "SWEET TANG": "sweet tang"
+    },
+    "immenence": {
+        "heaven shall burn": "Heaven Shall Burn"
     },
     "ison": {
         "A Golden Force": "A GOLDEN FORCE",
@@ -441,6 +462,12 @@
         "Natural At Disaster": "Natural at Disaster",
         "tHaT'S sHOWbIZ BabY! THE eNCorE": "THAT'S SHOWBIZ BABY! THE ENCORE",
         "tHiS iS wHaT wE dAnCe FoR": "This Is What We Dance For"
+    },
+     "jae stephens": {
+        "Total Sellout": "TOTAL SELLOUT",
+    }
+    "jay-z": {
+        "Dirt off Your Shoulder": "Dirt Off Your Shoulder",
     },
     "jesu": {
         "friends are evil (clean mix)": "Friends Are Evil (Clean Mix)",
@@ -653,6 +680,9 @@
         "The Ghost Of You - 2025 Mix": "The Ghost of You - 2025 Mix",
         "To The End - 2025 Mix": "To the End - 2025 Mix",
         "You Know What They Do To Guys Like Us In Prison - 2025 Mix": "You Know What They Do to Guys Like Us in Prison - 2025 Mix"
+    },
+    "nathalie cardone": {
+        "Working class": "Working Class",
     },
     "nelly furtado": {
         "Loose (expanded edition)": "Loose (Expanded Edition)"
@@ -1220,6 +1250,9 @@
     },
     "westside gunn": {
         "Pray For Paris": "Pray for Paris"
+    },
+    "wilco": {
+        "summerteeth": "Summerteeth",
     },
     "wow! wow! wubbzy!": {
         "Ask For A Little Help": "Ask for a Little Help",
