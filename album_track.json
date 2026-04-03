@@ -16,6 +16,7 @@
         "Femboifoxxx": "femboifoxxx"
     },
     "afi": {
+        "Decemberunderground": "DECEMBERUNDERGROUND",
         "Silver Bleeds The Black Sun...": "Silver Bleeds the Black Sun..."
     },
     "against me!": {
@@ -155,6 +156,10 @@
         "Introvert": "introvert",
         "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all"
     },
+    "bts": {
+        "Normal": "NORMAL",
+        "Swim": "SWIM"
+    },
     "camila cabello": {
         "C,XOXO (MAGIC CITY EDITION)": "C,XOXO (Magic City Edition)"
     },
@@ -274,6 +279,13 @@
     "descendents": {
         "All": "ALL",
         "All-O-Gistics": "ALL-O-Gistics"
+    },
+    "donald fagen": {
+        "Mary Shut The Garden Door": "Mary Shut the Garden Door",
+        "Morph The Cat": "Morph the Cat",
+        "Morph The Cat - Reprise": "Morph the Cat - Reprise",
+        "The Great Pagoda Of Funn": "The Great Pagoda of Funn",
+        "The Night Belongs To Mona": "The Night Belongs to Mona"
     },
     "double virgo": {
         "Greatest Hits": "greatest hits"
@@ -440,6 +452,12 @@
     "immenence": {
         "heaven shall burn": "Heaven Shall Burn"
     },
+    "in vision": {
+        "Black art": "Black Art",
+        "Immortal shadows": "Immortal Shadows",
+        "Rotten sun": "Rotten Sun",
+        "Save up all your tears": "Save Up All Your Tears"
+    },
     "ison": {
         "A Golden Force": "A GOLDEN FORCE",
         "Andromeda Skyline": "ANDROMEDA SKYLINE",
@@ -530,6 +548,9 @@
         "Melrose": "MELROSE",
         "White Lines": "WHITE LINES"
     },
+    "kardashev": {
+        "Snow-sleep": "Snow-Sleep"
+    },
     "kemetic just": {
         "Highways and Mindwaves": "Highways And Mindwaves",
         "another swing": "Another Swing",
@@ -548,6 +569,10 @@
     },
     "kevinkempt": {
         "Keep Going": "KEEP GOING"
+    },
+    "king crimson": {
+        "Epitaph - Including \"March For No Reason\" And \"Tomorrow And Tomorrow\"": "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
+        "Moonchild - Including \"The Dream\" And \"The Illusion\"": "Moonchild - Including \"The Dream\" and \"The Illusion\""
     },
     "kittydog": {
         "A World": "a world",
@@ -666,6 +691,10 @@
         "Note To Self": "Note to Self",
         "TIMELINE": "Timeline"
     },
+    "moodring": {
+        "Death Fetish": "death fetish",
+        "masochist machine": "Masochist Machine"
+    },
     "morrissey": {
         "amaZoNa": "Amazona",
         "bouLevARd": "Boulevard",
@@ -779,7 +808,8 @@
         "Obvious": "obvious"
     },
     "olivia rodrigo": {
-        "Guts": "GUTS"
+        "Guts": "GUTS",
+        "yOu SeEm PrEtTy SaD fOr A gIrL sO iN lOvE": "you seem pretty sad for a girl so in love"
     },
     "omar rodríguez-lópez": {
         "asco que conmueve los puntos erógenos": "Asco Que Conmueve Los Puntos Erógenos",
@@ -827,6 +857,9 @@
     },
     "paramore": {
         "Running Out of Time": "Running Out Of Time"
+    },
+    "paul mccartney & wings": {
+        "some people never know": "Some People Never Know"
     },
     "peter tosh": {
         "Get up, Stand Up": "Get Up, Stand Up"
@@ -936,6 +969,9 @@
     "sewerslvt": {
         "Get Your Wish (Sewerslvt remix)": "Get Your Wish (Sewerslvt Remix)"
     },
+    "shoebill": {
+        "Dancecore Dirtbag": "dancecore dirtbag"
+    },
     "sidewalks and skeletons": {
         "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
     },
@@ -977,6 +1013,17 @@
     "spiritbox": {
         "TSUNAMI SEA": "Tsunami Sea"
     },
+    "spite": {
+        "Gavel": "GAVEL",
+        "Hand of the Reaper": "HAND OF THE REAPER",
+        "Looking Glass": "LOOKING GLASS",
+        "New World Killer": "NEW WORLD KILLER",
+        "Pledge": "PLEDGE",
+        "Servant of Chaos": "SERVANT OF CHAOS",
+        "Shallow": "SHALLOW",
+        "Shedding Skin": "SHEDDING SKIN",
+        "The Disaster": "THE DISASTER"
+    },
     "stray kids": {
         "Ceremony": "CEREMONY"
     },
@@ -999,6 +1046,26 @@
         "Where's The Truth": "Where's the Truth?",
         "Which Way To Free?": "Which Way to Free?",
         "Won't Fall In Love Today": "Won't Fall in Love Today"
+    },
+    "sulfuric cautery": {
+        "Atrophy": "ATROPHY",
+        "Cast Off Blood Splatter": "CAST OFF BLOOD SPLATTER",
+        "Compulsive Retaliation": "COMPULSIVE RETALIATION",
+        "Contradictive Ideology": "CONTRADICTIVE IDEOLOGY",
+        "Euphoric Atrocities": "EUPHORIC ATROCITIES",
+        "Failed Pneuma": "FAILED PNEUMA",
+        "Fatal Prescription Incentive": "FAILED PRESCRIPTION INCENTIVE",
+        "Gasoline Sewers": "GASOLINE SEWERS",
+        "Incorrect Diagnosis Resulting In Fatal Hypoxia": "INCORRECT DIAGNOSIS RESULTING IN FATAL HYPOXIA",
+        "Lung Puncturing Fetish": "LUNG PUNCTURING FETISH",
+        "Mouth And Lungs Stuffed With Fiberglass": "MOUTH AND LUNGS STUFFED WITH FIBERGLASS",
+        "Neurosarcocleisis": "NEUROSARCOCLEISIS",
+        "Nitrogen Narcosis": "NITROGEN NARCOSIS",
+        "Prying Out Teeth For Information": "PRYING OUT TEETH FOR INFORMATION",
+        "Rat Castration": "RAT CASTRATION",
+        "Solemn Epiphany": "SOLEMN EPIPHANY",
+        "Systematic Dehumanization Propaganda": "SYSTEMATIC DEHUMIZATION PROPAGANDA",
+        "Unequivocally Humorless": "UNEQUIVOCALLY HUMORLESS"
     },
     "swans": {
         "No More Of This": "No More of This"
@@ -1126,6 +1193,9 @@
         "You're Losing Me (From the Vault)": "You're Losing Me (From The Vault)",
         "You're on Your Own, Kid": "You're On Your Own, Kid",
         "You’re on Your Own, Kid": "You’re On Your Own, Kid"
+    },
+    "the aggrolites": {
+        "Reggae Now!": "REGGAE NOW!"
     },
     "the beach boys": {
         "little saint nick (alternate take)": "Little Saint Nick (Alternate Take)",
