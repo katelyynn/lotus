@@ -1,5 +1,5 @@
 {
-    "version": "2026.0406",
+    "version": "2026.0419",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -546,7 +546,11 @@
         "Circles": "CIRCLES",
         "Highs and Lows": "HIGHS AND LOWS",
         "Melrose": "MELROSE",
-        "White Lines": "WHITE LINES"
+        "White Lines": "WHITE LINES",
+        "Facts (Charlie Heat version)": "Facts (Charlie Heat Version)",
+        "No More Parties in LA": "No More Parties In LA",
+        "The Life of Pablo": "The Life Of Pablo",
+        "Punch Drunk": "PUNCH DRUNK"
     },
     "kardashev": {
         "Snow-sleep": "Snow-Sleep"
@@ -1205,7 +1209,7 @@
         "Paint The Rust": "Paint the Rust",
         "Red And Purple": "Red and Purple",
         "Time To Die": "Time to Die",
-        "This Is A Business": "This Is a Business" 
+        "This Is A Business": "This Is a Business"
     },
     "the human abstract": {
         "A Dead World At Sunrise": "A Dead World at Sunrise",
