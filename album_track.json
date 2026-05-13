@@ -1,5 +1,5 @@
 {
-    "version": "2026.0419",
+    "version": "2026.0510",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -10,6 +10,7 @@
     },
     "2hollis": {
         "Afraid (feat. Nate Sib)": "afraid (feat. nate sib)",
+        "IM PLAYIN MINECRAFT ITS 2AM": "im playing minecraft its 2am",
         "TEENAGE SOLDIER": "teenage soldier"
     },
     "621 gecs": {
@@ -80,7 +81,8 @@
     },
     "atmosphere": {
         "Godlovesugly": "GodLovesUgly",
-        "They All Get Mad At You": "They All Get Mad at You"
+        "They All Get Mad At You": "They All Get Mad at You",
+        "Until The Nipples Gone": "Until the Nipples Gone"
     },
     "avenged sevenfold": {
         "A Little Piece Of Heaven - Live": "A Little Piece of Heaven - Live",
@@ -93,6 +95,9 @@
         "Waking The Fallen": "Waking the Fallen",
         "Waking The Fallen: Resurrected": "Waking the Fallen: Resurrected",
         "Welcome To The Family": "Welcome to the Family"
+    },
+    "ayase": {
+        "Last Resort": "last resort"
     },
     "bad brains": {
         "I Against I": "i against i"
@@ -151,8 +156,10 @@
         "waves of sound across oceans of time": "Waves of Sound Across Oceans of Time"
     },
     "brakence": {
+        "Cut You Off": "cut you off",
         "Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)": "drank 3 of my parents' craft beers to make eye contact with you (feat. login)",
         "Hypochondriac (Demo)": "hypochondriac (demo)",
+        "hypochondriac (sessions)": "hypochondriac (Sessions)",
         "Introvert": "introvert",
         "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all"
     },
@@ -331,9 +338,17 @@
     "fifty fifty": {
         "LOVE TUNE": "Love Tune"
     },
+    "filth of mankind": {
+        "obłędna rzeczywistość": "Obłędna rzeczywistość",
+        "poszanowanie różnorodności": "Poszanowanie różnorodności"
+    },
     "food house": {
         "Food House": "food house",
         "Two House": "two house"
+    },
+    "franz ferdinand": {
+        "This Fffire": "This fffire",
+        "This fffire - new version": "This fffire - New Version"
     },
     "fred nevché & french 79": {
         "THE UNREAL STORY OF LOU REED (Instrumental)": "The Unreal Story of Lou Reed (Instrumental)"
@@ -361,6 +376,12 @@
         "TYPE SHIT": "Type Shit",
         "YOUNG METRO": "Young Metro"
     },
+    "gary numan": {
+        "intruder": "Intruder"
+    },
+    "georg friedrich händel": {
+        "HANDEL: Messiah": "Handel: Messiah"
+    },
     "glaive": {
         "17250 (V2)": "17250 (v2)",
         "A Date w Karma (V1)": "a date w karma (v1)",
@@ -384,6 +405,7 @@
         "Shoreditch (Bsun N Thr6x Remix)": "shoreditch (bsun n thr6x remix)",
         "Stay + Love Story (Cover)": "stay + love story (cover)",
         "SYNOPSIS (demo)": "synopsis (demo)",
+        "the band": "The Band",
         "veni vidi vici": "Veni Vidi Vici",
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
@@ -443,6 +465,13 @@
     "hoba hoba spirit": {
         "trabando": "Trabando"
     },
+    "hod": {
+        "Beneath The Mountains Of The Scorpion": "Beneath the Mountains of the Scorpion",
+        "Den Of Wolves": "Den of Wolves",
+        "Through The Gates (They Come For Me)": "Through the Gates (They Come for Me)",
+        "When The Ghouls Feed": "When the Ghouls Feed",
+        "Where Are The Demons": "Where Are the Demons"
+    },
     "idolish7": {
         "RESTART POINTER": "RESTART POiNTER"
     },
@@ -478,6 +507,12 @@
         "Shipwrecks": "SHIPWRECKS",
         "The Fifth World": "THE FIFTH WORLD",
         "waves": "WAVES"
+    },
+    "iyowa": {
+        "Take You to an Alien (feat. Sekai)": "Take you to an alien (feat. SEKAI)"
+    },
+    "izna": {
+        "n/A - eP": "N/a - EP"
     },
     "jade": {
         "Angel of My Dreams": "Angel Of My Dreams",
@@ -571,6 +606,9 @@
         "MORE CHAOS": "more chaos",
         "Overseas": "overseas"
     },
+    "Kevin Atwater": {
+        "achilles": "Achilles"
+    },
     "kevinkempt": {
         "Keep Going": "KEEP GOING"
     },
@@ -627,6 +665,14 @@
         "Highball With The Devil": "Highball with the Devil",
         "Me And Chuck": "Me and Chuck",
         "Running The Gauntlet": "Running the Gauntlet"
+    },
+    "le sserafim": {
+        "'pureflow', pt. 1": "'PUREFLOW', Pt. 1"
+    },
+    "liam gallagher": {
+        "Doesn't Have To Be That Way": "Doesn't Have to Be That Way",
+        "Wall Of Glass": "Wall of Glass",
+        "When I'm In Need": "When I'm in Need"
     },
     "linkin park": {
         "Burn It Down": "BURN IT DOWN",
@@ -731,11 +777,18 @@
         "To The End - 2025 Mix": "To the End - 2025 Mix",
         "You Know What They Do To Guys Like Us In Prison - 2025 Mix": "You Know What They Do to Guys Like Us in Prison - 2025 Mix"
     },
+    "nævis": {
+        "sEnSiTiVe - sInGlE": "Sensitive - Single"
+    },
     "nathalie cardone": {
         "Working class": "Working Class"
     },
     "nelly furtado": {
         "Loose (expanded edition)": "Loose (Expanded Edition)"
+    },
+    "ninajirachi": {
+        "Girl EDM": "girl EDM",
+        "Hand On My Heart": "Hand on my Heart"
     },
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
@@ -812,6 +865,7 @@
         "Obvious": "obvious"
     },
     "olivia rodrigo": {
+        "Drop Dead": "drop dead",
         "Guts": "GUTS",
         "yOu SeEm PrEtTy SaD fOr A gIrL sO iN lOvE": "you seem pretty sad for a girl so in love"
     },
@@ -945,9 +999,15 @@
     "reckless kelly": {
         "She Sang The Red River Valley": "She Sang the Red River Valley"
     },
+    "red hot chili peppers": {
+        "I'm With You": "I'm with You"
+    },
     "reneé rapp": {
         "EVERYTHING TO EVERYONE": "Everything To Everyone",
         "EVERYTHING TO EVERYONE (Deluxe)": "Everything To Everyone (Deluxe)"
+    },
+    "river": {
+        "solo": "Solo"
     },
     "robbie nevil": {
         "The Best Of Robbie Neville": "The Best Of Robbie Nevil"
@@ -978,6 +1038,9 @@
     },
     "sidewalks and skeletons": {
         "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
+    },
+    "slayyyter": {
+        "bRokE BitCH fRee$TyLE - sINgLe": "BROKE BITCH FREE$TYLE - Single"
     },
     "slipknot": {
         "(Sic)": "(sic)",
@@ -1031,6 +1094,10 @@
     "stray kids": {
         "Ceremony": "CEREMONY"
     },
+    "sublime": {
+        "D.J.S": "D.J.s",
+        "Greatest-hits": "Greatest-Hits"
+    },
     "suicidal tendencies": {
         "Born To Be Cyco": "Born to Be Cyco",
         "Built To Survive": "Built to Survive",
@@ -1070,6 +1137,9 @@
         "Solemn Epiphany": "SOLEMN EPIPHANY",
         "Systematic Dehumanization Propaganda": "SYSTEMATIC DEHUMIZATION PROPAGANDA",
         "Unequivocally Humorless": "UNEQUIVOCALLY HUMORLESS"
+    },
+    "sumire uesaka": {
+        "Pop Team Epic": "POP TEAM EPIC"
     },
     "swans": {
         "No More Of This": "No More of This"
@@ -1350,6 +1420,13 @@
     },
     "veggietales": {
         "we are the grapes of wrath": "We Are The Grapes of Wrath"
+    },
+    "violent soho": {
+        "How To Taste": "How to Taste",
+        "In The Aisle": "In the Aisle",
+        "Love Is A Heavy Word": "Love Is a Heavy Word",
+        "Lying On The Floor": "Lying on the Floor",
+        "Pick It up Again": "Pick It Up Again"
     },
     "vivid bad squad": {
         "Beyond the Way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)": "Beyond the way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)"
