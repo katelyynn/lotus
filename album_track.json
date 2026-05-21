@@ -1,5 +1,5 @@
 {
-    "version": "2026.0514",
+    "version": "2026.0521",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -301,6 +301,9 @@
         "Between The Walls": "Between the Walls",
         "Told To Be Fine": "Told to Be Fine"
     },
+    "eminem": {
+        "trouble": "Trouble"
+    },
     "ericdoa": {
         "Search & Destroy": "search & destroy",
         "Song for when the bar closes": "song for when the bar closes",
@@ -341,6 +344,9 @@
     "filth of mankind": {
         "obłędna rzeczywistość": "Obłędna rzeczywistość",
         "poszanowanie różnorodności": "Poszanowanie różnorodności"
+    },
+    "fog lake": {
+        "catacombs": "Catacombs"
     },
     "food house": {
         "Food House": "food house",
@@ -884,6 +890,9 @@
     "osamason": {
         "the whole world is free": "The Whole World Is Free"
     },
+    "outkast": {
+        "Ghettomusick": "GhettoMusick"
+    },
     "ozzy osbourne": {
         "I Don't Want To Change The World": "I Don't Want to Change the World",
         "Pictures Of Matchstick Men (With Type O Negative)": "Pictures of Matchstick Men (with Type O Negative)",
@@ -1158,6 +1167,21 @@
         "love you - take 3": "Love You - Take 3",
         "She Took A Long Cold Look At Me - take 4": "She Took a Long Cold Look at Me - Take 4",
         "waving my arms in the air - take 1": "Waving My Arms in the Air - Take 1"
+    },
+    "syd matters": {
+        "After all these years": "After All These Years",
+        "Anytime now": "Anytime Now",
+        "Big moon": "Big Moon",
+        "Everything else": "Everything Else",
+        "Fever In Winter, Shiver In June": "Fever in Winter, Shiver in June",
+        "Ghost days": "Ghost Days",
+        "Ghost days (nouvelle edition)": "Ghost Days (Nouvelle Edition)",
+        "i care": "I Care",
+        "It's a nickname": "It's A Nickname",
+        "I was asleep": "I Was Asleep",
+        "Me and my horses": "Me And My Horses",
+        "My lover's on the pier": "My Lover's On The Pier",
+        "Nobody told me": "Nobody Told Me"
     },
     "taylor swift": {
         "All of the Girls You Loved Before": "All Of The Girls You Loved Before",
