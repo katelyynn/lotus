@@ -1,5 +1,5 @@
 {
-    "version": "2026.0521",
+    "version": "2026.0527",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -305,6 +305,8 @@
         "trouble": "Trouble"
     },
     "ericdoa": {
+        "agoraphobia": "Agoraphobia",
+        "BACKDOOR": "Backdoor",
         "Search & Destroy": "search & destroy",
         "Song for when the bar closes": "song for when the bar closes",
         "Throw it up": "throw it up"
@@ -329,7 +331,8 @@
         "Zombified": "ZOMBIFIED"
     },
     "femtanyl": {
-        "body the pistol": "BODY THE PISTOL"
+        "body the pistol": "BODY THE PISTOL",
+        "magfest": "MAGFEST",
     },
     "fennesz": {
         "liminality": "Liminality",
@@ -415,6 +418,9 @@
         "veni vidi vici": "Veni Vidi Vici",
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
+    },
+    "glass beach": {
+        "Rare Animal": "rare animal"
     },
     "glume & phossa": {
         "banshee": "Banshee"
@@ -874,6 +880,7 @@
     "olivia rodrigo": {
         "Drop Dead": "drop dead",
         "Guts": "GUTS",
+        "tHe CuRe": "the cure",
         "yOu SeEm PrEtTy SaD fOr A gIrL sO iN lOvE": "you seem pretty sad for a girl so in love"
     },
     "omar rodríguez-lópez": {
@@ -892,6 +899,11 @@
     },
     "outkast": {
         "Ghettomusick": "GhettoMusick"
+    },
+    "ovine hall": {
+        "for u": "For U",
+        "for u (v1)": "For U (v1)",
+        "handle that": "Handle That"
     },
     "ozzy osbourne": {
         "I Don't Want To Change The World": "I Don't Want to Change the World",
@@ -1509,6 +1521,7 @@
         "Sulky Baby": "sulky baby"
     },
     "yonkagor": {
+        "Artificial abandonment": "Artifical Abandonment",
         "I still create": "I Still Create"
     },
     "young thug": {
