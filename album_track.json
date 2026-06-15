@@ -1,5 +1,5 @@
 {
-    "version": "2026.0528",
+    "version": "2026.0615",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -75,6 +75,13 @@
         "Swat Team": "SWAT TEAM",
         "The End": "THE END",
         "Whiskey (Release Me)": "WHISKEY (RELEASE ME)"
+    },
+    "astrid": {
+        "Back To the Pound!!!": "back to the pound!!!",
+        "Clicker Training": "clicker training",
+        "did I Come In At a Bad Time?": "did i come in at a bad time?",
+        "Doggirl Anthem": "doggirl anthem",
+        "Pup Cup (Run!)": "pup cup (run!)"
     },
     "atena": {
         "Dreammode": "DREAMMODE"
@@ -232,6 +239,9 @@
     "crystal fairy": {
         "Drugs On The Bus": "Drugs on the Bus"
     },
+    "cupsize": {
+        "Заставь меня плакать": "заставь меня плакать"
+    },
     "custard": {
         "Ringo (I feel like...)": "Ringo (I Feel Like...)"
     },
@@ -347,6 +357,7 @@
     "femtanyl": {
         "body the pistol": "BODY THE PISTOL",
         "magfest": "MAGFEST",
+        "Worldwid3": "WORLDWID3"
     },
     "fennesz": {
         "liminality": "Liminality",
@@ -515,6 +526,9 @@
     },
     "immenence": {
         "heaven shall burn": "Heaven Shall Burn"
+    },
+    "invent animate": {
+        "BLOOM IN HEAVEN": "Bloom In Heaven"
     },
     "in vision": {
         "Black art": "Black Art",
@@ -1063,6 +1077,9 @@
     "rucka rucka ali": {
         "Minecraft Won't Add inches to your cock": "Minecraft Won’t Add Inches to Your Cock"
     },
+    "run the jewels": {
+        "Close Your Eyes (And Count To Fuck)": "Close Your Eyes (And Count to Fuck)"
+    },
     "sabrina carpenter": {
         "Such A Funny Way": "Such a Funny Way"
     },
@@ -1135,6 +1152,9 @@
         "Shallow": "SHALLOW",
         "Shedding Skin": "SHEDDING SKIN",
         "The Disaster": "THE DISASTER"
+    },
+    "steve earle": {
+        "Way Down In The Hole": "Way Down in the Hole"
     },
     "stray kids": {
         "Ceremony": "CEREMONY"
@@ -1328,6 +1348,9 @@
         "You're on Your Own, Kid": "You're On Your Own, Kid",
         "You’re on Your Own, Kid": "You’re On Your Own, Kid"
     },
+    "that handsome devil": {
+        "The heart goes to heaven, The head goes to hell": "The Heart Goes to Heaven, The Head Goes to Hell"
+    },
     "the aggrolites": {
         "Reggae Now!": "REGGAE NOW!"
     },
@@ -1470,6 +1493,9 @@
     },
     "underscores": {
         "music": "Music"
+    },
+    "unprocessed": {
+        "DeadRose": "Deadrose"
     },
     "van halen": {
         "Runnin' With the Devil": "Runnin' with the Devil",
