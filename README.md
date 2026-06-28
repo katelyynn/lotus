@@ -22,4 +22,4 @@ Unlike music databases like RYM and MusicBrainz, capitalisations are decided by 
 
 ---
 
-kate 2024-2025
+katelyn and contributors 2024-2026
