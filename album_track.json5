@@ -1,5 +1,5 @@
 {
-    "version": "2026.0408",
+    "version": "2026.0628",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -10,6 +10,7 @@
     },
     "2hollis": {
         "Afraid (feat. Nate Sib)": "afraid (feat. nate sib)",
+        "IM PLAYIN MINECRAFT ITS 2AM": "im playing minecraft its 2am",
         "TEENAGE SOLDIER": "teenage soldier"
     },
     "621 gecs": {
@@ -21,6 +22,9 @@
     },
     "against me!": {
         "Fuckmylife666": "FUCKMYLIFE666"
+    },
+    "against the current": {
+        "legends never die": "Legends Never Die"
     },
     "against the grain": {
         "Against The Grain": "Against the Grain",
@@ -75,12 +79,20 @@
         "The End": "THE END",
         "Whiskey (Release Me)": "WHISKEY (RELEASE ME)"
     },
+    "astrid": {
+        "Back To the Pound!!!": "back to the pound!!!",
+        "Clicker Training": "clicker training",
+        "did I Come In At a Bad Time?": "did i come in at a bad time?",
+        "Doggirl Anthem": "doggirl anthem",
+        "Pup Cup (Run!)": "pup cup (run!)"
+    },
     "atena": {
         "Dreammode": "DREAMMODE"
     },
     "atmosphere": {
         "Godlovesugly": "GodLovesUgly",
-        "They All Get Mad At You": "They All Get Mad at You"
+        "They All Get Mad At You": "They All Get Mad at You",
+        "Until The Nipples Gone": "Until the Nipples Gone"
     },
     "avenged sevenfold": {
         "A Little Piece Of Heaven - Live": "A Little Piece of Heaven - Live",
@@ -93,6 +105,9 @@
         "Waking The Fallen": "Waking the Fallen",
         "Waking The Fallen: Resurrected": "Waking the Fallen: Resurrected",
         "Welcome To The Family": "Welcome to the Family"
+    },
+    "ayase": {
+        "Last Resort": "last resort"
     },
     "bad brains": {
         "I Against I": "i against i"
@@ -151,8 +166,10 @@
         "waves of sound across oceans of time": "Waves of Sound Across Oceans of Time"
     },
     "brakence": {
+        "Cut You Off": "cut you off",
         "Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)": "drank 3 of my parents' craft beers to make eye contact with you (feat. login)",
         "Hypochondriac (Demo)": "hypochondriac (demo)",
+        "hypochondriac (sessions)": "hypochondriac (Sessions)",
         "Introvert": "introvert",
         "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all"
     },
@@ -225,6 +242,9 @@
     "crystal fairy": {
         "Drugs On The Bus": "Drugs on the Bus"
     },
+    "cupsize": {
+        "Заставь меня плакать": "заставь меня плакать"
+    },
     "custard": {
         "Ringo (I feel like...)": "Ringo (I Feel Like...)"
     },
@@ -255,6 +275,20 @@
     },
     "dc the don": {
         "ReBIRTH": "REBIRTH"
+    },
+    "death spells": {
+        "Choke on One Another": "choke on one another",
+        "Diluted": "diluted",
+        "End Of Life": "end of life",
+        "Fantastic Bastards": "fantastic bastards",
+        "Hate Unconditional": "hate unconditional",
+        "Hell All-American": "hell all-american",
+        "Hypnotic Spells": "hypnotic spells",
+        "I don't know much, but I know I loathe you": "i don't know much, but i know i loathe you",
+        "Quaainterlude": "quaainterlude",
+        "Underneath It All": "underneath it all",
+        "Where are my fucking pills?": "where are my fucking pills?",
+        "Why Is Love So Disastrous?": "why is love so disastrous?"
     },
     "deftones": {
         "Cut Hands": "cut hands",
@@ -287,15 +321,27 @@
         "The Great Pagoda Of Funn": "The Great Pagoda of Funn",
         "The Night Belongs To Mona": "The Night Belongs to Mona"
     },
+    "doppo": {
+        "fastな俺の毎日を笑え": "fASTな俺の毎日を笑え"
+    },
     "double virgo": {
-        // https://doublevirgo.bandcamp.com/album/greatest-hits
         "Greatest Hits": "greatest hits"
     },
     "efterklang": {
         "Between The Walls": "Between the Walls",
         "Told To Be Fine": "Told to Be Fine"
     },
+    "eli": {
+        "All At Once": "All at Once",
+        "girl of your dreams": "Girl of Your Dreams",
+        "Like A Girl": "Like a Girl"
+    },
+    "eminem": {
+        "trouble": "Trouble"
+    },
     "ericdoa": {
+        "agoraphobia": "Agoraphobia",
+        "BACKDOOR": "Backdoor",
         "Search & Destroy": "search & destroy",
         "Song for when the bar closes": "song for when the bar closes",
         "Throw it up": "throw it up"
@@ -320,11 +366,16 @@
         "Zombified": "ZOMBIFIED"
     },
     "femtanyl": {
-        "body the pistol": "BODY THE PISTOL"
+        "body the pistol": "BODY THE PISTOL",
+        "magfest": "MAGFEST",
+        "Worldwid3": "WORLDWID3"
     },
     "fennesz": {
         "liminality": "Liminality",
         "paroles": "Paroles"
+    },
+    "fetty wap": {
+        "tRaP luV": "Trap Luv"
     },
     "fex": {
         "Subways of your Mind": "Subways of Your Mind"
@@ -332,9 +383,23 @@
     "fifty fifty": {
         "LOVE TUNE": "Love Tune"
     },
+    "filth of mankind": {
+        "obłędna rzeczywistość": "Obłędna rzeczywistość",
+        "poszanowanie różnorodności": "Poszanowanie różnorodności"
+    },
+    "flo": {
+        "ACCESS ALL AREAS": "Access All Areas"
+    },
+    "fog lake": {
+        "catacombs": "Catacombs"
+    },
     "food house": {
         "Food House": "food house",
         "Two House": "two house"
+    },
+    "franz ferdinand": {
+        "This Fffire": "This fffire",
+        "This fffire - new version": "This fffire - New Version"
     },
     "fred nevché & french 79": {
         "THE UNREAL STORY OF LOU REED (Instrumental)": "The Unreal Story of Lou Reed (Instrumental)"
@@ -356,11 +421,18 @@
         "NIGHTS LIKE THIS": "Nights Like This",
         "ONE BIG FAMILY": "One Big Family",
         "OUT OF MY HANDS": "Out Of My Hands",
+        "RADIO": "Radio",
         "RUNNIN OUTTA TIME": "Runnin Outta Time",
         "SEEN IT ALL": "Seen it All",
         "SLIMED IN": "Slimed In",
         "TYPE SHIT": "Type Shit",
         "YOUNG METRO": "Young Metro"
+    },
+    "gary numan": {
+        "intruder": "Intruder"
+    },
+    "georg friedrich händel": {
+        "HANDEL: Messiah": "Handel: Messiah"
     },
     "glaive": {
         "17250 (V2)": "17250 (v2)",
@@ -385,9 +457,13 @@
         "Shoreditch (Bsun N Thr6x Remix)": "shoreditch (bsun n thr6x remix)",
         "Stay + Love Story (Cover)": "stay + love story (cover)",
         "SYNOPSIS (demo)": "synopsis (demo)",
+        "the band": "The Band",
         "veni vidi vici": "Veni Vidi Vici",
         "we don't leave the house": "We Don't Leave the House",
         "y’all": "Y’all"
+    },
+    "glass beach": {
+        "Rare Animal": "rare animal"
     },
     "glume & phossa": {
         "banshee": "Banshee"
@@ -423,6 +499,14 @@
         "Thick And Thin": "Thick and Thin",
         "Underneath The Flames": "Underneath the Flames"
     },
+    "hande yener": {
+        "Apayri": "Apayrı",
+        "Aşkin Gücü": "Aşkın Gücü",
+        "Bunun Adi Ayrilik": "Bunun Adı Ayrılık",
+        "Haykırdım seni": "Haykırdım Seni",
+        "Kibir (Yanmam Lazim)": "Kibir (Yanmam Lazım)",
+        "Yalanin Batsin": "Yalanın Batsın"
+    },
     "hans gruber and the die hards": {
         "Hans Gruber and The Die Hards": "Hans Gruber and the Die Hards",
         "With A Vengeance": "With a Vengeance"
@@ -441,8 +525,21 @@
         "glum": "Glum",
         "WHIM": "Whim"
     },
+    "hereisaropegoodluck": {
+        "DOWN WITH THE SNAKES": "Down With The Snakes",
+        "I’M THE ONLY HELL MY MAMA EVER RAISED": "I’m The Only Hell My Mama Ever Raised",
+        "STARTING A FIGHT IN AN EMPTY HOUSE": "Starting A Fight In An Empty House",
+        "WE’VE HOWDIED, BUT HAVEN’T SHOOK": "We’ve Howdied, But Haven’t Shook"
+    },
     "hoba hoba spirit": {
         "trabando": "Trabando"
+    },
+    "hod": {
+        "Beneath The Mountains Of The Scorpion": "Beneath the Mountains of the Scorpion",
+        "Den Of Wolves": "Den of Wolves",
+        "Through The Gates (They Come For Me)": "Through the Gates (They Come for Me)",
+        "When The Ghouls Feed": "When the Ghouls Feed",
+        "Where Are The Demons": "Where Are the Demons"
     },
     "idolish7": {
         "RESTART POINTER": "RESTART POiNTER"
@@ -452,6 +549,9 @@
     },
     "immenence": {
         "heaven shall burn": "Heaven Shall Burn"
+    },
+    "invent animate": {
+        "BLOOM IN HEAVEN": "Bloom In Heaven"
     },
     "in vision": {
         "Black art": "Black Art",
@@ -479,6 +579,12 @@
         "Shipwrecks": "SHIPWRECKS",
         "The Fifth World": "THE FIFTH WORLD",
         "waves": "WAVES"
+    },
+    "iyowa": {
+        "Take You to an Alien (feat. Sekai)": "Take you to an alien (feat. SEKAI)"
+    },
+    "izna": {
+        "n/A - eP": "N/a - EP"
     },
     "jade": {
         "Angel of My Dreams": "Angel Of My Dreams",
@@ -547,7 +653,11 @@
         "Circles": "CIRCLES",
         "Highs and Lows": "HIGHS AND LOWS",
         "Melrose": "MELROSE",
-        "White Lines": "WHITE LINES"
+        "White Lines": "WHITE LINES",
+        "Facts (Charlie Heat version)": "Facts (Charlie Heat Version)",
+        "No More Parties in LA": "No More Parties In LA",
+        "The Life of Pablo": "The Life Of Pablo",
+        "Punch Drunk": "PUNCH DRUNK"
     },
     "kardashev": {
         "Snow-sleep": "Snow-Sleep"
@@ -567,6 +677,9 @@
         "Mewtwo": "mewtwo",
         "MORE CHAOS": "more chaos",
         "Overseas": "overseas"
+    },
+    "Kevin Atwater": {
+        "achilles": "Achilles"
     },
     "kevinkempt": {
         "Keep Going": "KEEP GOING"
@@ -625,6 +738,14 @@
         "Me And Chuck": "Me and Chuck",
         "Running The Gauntlet": "Running the Gauntlet"
     },
+    "le sserafim": {
+        "'pureflow', pt. 1": "'PUREFLOW', Pt. 1"
+    },
+    "liam gallagher": {
+        "Doesn't Have To Be That Way": "Doesn't Have to Be That Way",
+        "Wall Of Glass": "Wall of Glass",
+        "When I'm In Need": "When I'm in Need"
+    },
     "linkin park": {
         "Burn It Down": "BURN IT DOWN",
         "Castle of Glass": "CASTLE OF GLASS",
@@ -640,8 +761,17 @@
         "Until It Breaks": "UNTIL IT BREAKS",
         "Victimized": "VICTIMIZED"
     },
+    "little dragon": {
+        "After The Rain": "After the Rain",
+        "Place To Belong": "Place to Belong"
+    },
     "logic": {
         "catch me if you can": "Catch Me If You Can"
+    },
+    "los delinqüentes": {
+        "De Los MatoRRaLeS": "De los Matorrales",
+        "Los delinqüentes y la banda del ratón": "Los Delinqüentes y la Banda del Ratón",
+        "Telescopio cósmico": "Telescopio Cósmico"
     },
     "lucy bedroque": {
         "unmusique": "Unmusique"
@@ -673,8 +803,12 @@
         "cOmPlExIty": "complexity",
         "hEAlThy haBIt": "healthy habit",
         "Locket": "locket",
+        "lOVergIrl": "lovergirl",
         "Make You Mine": "make you mine",
         "nOthIng at All": "nothing at all"
+    },
+    "man with a mission": {
+        "Don't lose yourself": "DON'T LOSE YOURSELF"
     },
     "manarem": {
         "Movmënt": "MOVMËNT"
@@ -692,6 +826,11 @@
         "Note To Self": "Note to Self",
         "TIMELINE": "Timeline"
     },
+    "mitski": {
+        "I'll Change For You": "I'll Change for You",
+        "In A Lake": "In a Lake",
+        "Instead Of Here": "Instead of Here"
+    },
     "moodring": {
         "Death Fetish": "death fetish",
         "masochist machine": "Masochist Machine"
@@ -706,6 +845,9 @@
         "make-uP is a liE": "Make-up is a Lie",
         "you're right, it's tiME": "You're Right, It's Time",
         "zoom zoOM tHE little bOy": "Zoom Zoom the Little Boy"
+    },
+    "muddy waters": {
+        "I'M Ready": "I'm Ready"
     },
     "my bloody valentine": {
         "Blown a Wish": "blown a wish",
@@ -728,11 +870,18 @@
         "To The End - 2025 Mix": "To the End - 2025 Mix",
         "You Know What They Do To Guys Like Us In Prison - 2025 Mix": "You Know What They Do to Guys Like Us in Prison - 2025 Mix"
     },
+    "nævis": {
+        "sEnSiTiVe - sInGlE": "Sensitive - Single"
+    },
     "nathalie cardone": {
         "Working class": "Working Class"
     },
     "nelly furtado": {
         "Loose (expanded edition)": "Loose (Expanded Edition)"
+    },
+    "ninajirachi": {
+        "Girl EDM": "girl EDM",
+        "Hand On My Heart": "Hand on my Heart"
     },
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
@@ -809,7 +958,9 @@
         "Obvious": "obvious"
     },
     "olivia rodrigo": {
+        "Drop Dead": "drop dead",
         "Guts": "GUTS",
+        "tHe CuRe": "the cure",
         "yOu SeEm PrEtTy SaD fOr A gIrL sO iN lOvE": "you seem pretty sad for a girl so in love"
     },
     "omar rodríguez-lópez": {
@@ -825,6 +976,14 @@
     },
     "osamason": {
         "the whole world is free": "The Whole World Is Free"
+    },
+    "outkast": {
+        "Ghettomusick": "GhettoMusick"
+    },
+    "ovine hall": {
+        "for u": "For U",
+        "for u (v1)": "For U (v1)",
+        "handle that": "Handle That"
     },
     "ozzy osbourne": {
         "I Don't Want To Change The World": "I Don't Want to Change the World",
@@ -942,18 +1101,30 @@
     "reckless kelly": {
         "She Sang The Red River Valley": "She Sang the Red River Valley"
     },
+    "red hot chili peppers": {
+        "I'm With You": "I'm with You"
+    },
     "reneé rapp": {
         "EVERYTHING TO EVERYONE": "Everything To Everyone",
         "EVERYTHING TO EVERYONE (Deluxe)": "Everything To Everyone (Deluxe)"
     },
+    "river": {
+        "solo": "Solo"
+    },
     "robbie nevil": {
         "The Best Of Robbie Neville": "The Best Of Robbie Nevil"
+    },
+    "robyn": {
+        "Don't Stop The Music": "Don't Stop the Music"
     },
     "roro": {
         "hot hits": "Hot Hits"
     },
     "rucka rucka ali": {
         "Minecraft Won't Add inches to your cock": "Minecraft Won’t Add Inches to Your Cock"
+    },
+    "run the jewels": {
+        "Close Your Eyes (And Count To Fuck)": "Close Your Eyes (And Count to Fuck)"
     },
     "sabrina carpenter": {
         "Such A Funny Way": "Such a Funny Way"
@@ -975,6 +1146,9 @@
     },
     "sidewalks and skeletons": {
         "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
+    },
+    "slayyyter": {
+        "bRokE BitCH fRee$TyLE - sINgLe": "BROKE BITCH FREE$TYLE - Single"
     },
     "slipknot": {
         "(Sic)": "(sic)",
@@ -1025,8 +1199,15 @@
         "Shedding Skin": "SHEDDING SKIN",
         "The Disaster": "THE DISASTER"
     },
+    "steve earle": {
+        "Way Down In The Hole": "Way Down in the Hole"
+    },
     "stray kids": {
         "Ceremony": "CEREMONY"
+    },
+    "sublime": {
+        "D.J.S": "D.J.s",
+        "Greatest-hits": "Greatest-Hits"
     },
     "suicidal tendencies": {
         "Born To Be Cyco": "Born to Be Cyco",
@@ -1068,6 +1249,9 @@
         "Systematic Dehumanization Propaganda": "SYSTEMATIC DEHUMIZATION PROPAGANDA",
         "Unequivocally Humorless": "UNEQUIVOCALLY HUMORLESS"
     },
+    "sumire uesaka": {
+        "Pop Team Epic": "POP TEAM EPIC"
+    },
     "swans": {
         "No More Of This": "No More of This"
     },
@@ -1084,6 +1268,21 @@
         "love you - take 3": "Love You - Take 3",
         "She Took A Long Cold Look At Me - take 4": "She Took a Long Cold Look at Me - Take 4",
         "waving my arms in the air - take 1": "Waving My Arms in the Air - Take 1"
+    },
+    "syd matters": {
+        "After all these years": "After All These Years",
+        "Anytime now": "Anytime Now",
+        "Big moon": "Big Moon",
+        "Everything else": "Everything Else",
+        "Fever In Winter, Shiver In June": "Fever in Winter, Shiver in June",
+        "Ghost days": "Ghost Days",
+        "Ghost days (nouvelle edition)": "Ghost Days (Nouvelle Edition)",
+        "i care": "I Care",
+        "It's a nickname": "It's A Nickname",
+        "I was asleep": "I Was Asleep",
+        "Me and my horses": "Me And My Horses",
+        "My lover's on the pier": "My Lover's On The Pier",
+        "Nobody told me": "Nobody Told Me"
     },
     "taylor swift": {
         "All of the Girls You Loved Before": "All Of The Girls You Loved Before",
@@ -1194,6 +1393,9 @@
         "You're Losing Me (From the Vault)": "You're Losing Me (From The Vault)",
         "You're on Your Own, Kid": "You're On Your Own, Kid",
         "You’re on Your Own, Kid": "You’re On Your Own, Kid"
+    },
+    "that handsome devil": {
+        "The heart goes to heaven, The head goes to hell": "The Heart Goes to Heaven, The Head Goes to Hell"
     },
     "the aggrolites": {
         "Reggae Now!": "REGGAE NOW!"
@@ -1338,6 +1540,9 @@
     "underscores": {
         "music": "Music"
     },
+    "unprocessed": {
+        "DeadRose": "Deadrose"
+    },
     "van halen": {
         "Runnin' With the Devil": "Runnin' with the Devil",
         "Where Have All The Good Times Gone!": "Where Have All the Good Times Gone!"
@@ -1347,6 +1552,13 @@
     },
     "veggietales": {
         "we are the grapes of wrath": "We Are The Grapes of Wrath"
+    },
+    "violent soho": {
+        "How To Taste": "How to Taste",
+        "In The Aisle": "In the Aisle",
+        "Love Is A Heavy Word": "Love Is a Heavy Word",
+        "Lying On The Floor": "Lying on the Floor",
+        "Pick It up Again": "Pick It Up Again"
     },
     "vivid bad squad": {
         "Beyond the Way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)": "Beyond the way (feat. 小豆沢こはね&白石杏&東雲彰人&青柳冬弥&初音ミク)"
@@ -1404,6 +1616,7 @@
         "Sulky Baby": "sulky baby"
     },
     "yonkagor": {
+        "Artificial abandonment": "Artifical Abandonment",
         "I still create": "I Still Create"
     },
     "young thug": {

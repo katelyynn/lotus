@@ -1,5 +1,5 @@
 {
-    "version": "2026.0615",
+    "version": "2026.0628",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -22,6 +22,9 @@
     },
     "against me!": {
         "Fuckmylife666": "FUCKMYLIFE666"
+    },
+    "against the current": {
+        "legends never die": "Legends Never Die"
     },
     "against the grain": {
         "Against The Grain": "Against the Grain",
@@ -318,12 +321,20 @@
         "The Great Pagoda Of Funn": "The Great Pagoda of Funn",
         "The Night Belongs To Mona": "The Night Belongs to Mona"
     },
+    "doppo": {
+        "fastな俺の毎日を笑え": "fASTな俺の毎日を笑え"
+    },
     "double virgo": {
         "Greatest Hits": "greatest hits"
     },
     "efterklang": {
         "Between The Walls": "Between the Walls",
         "Told To Be Fine": "Told to Be Fine"
+    },
+    "eli": {
+        "All At Once": "All at Once",
+        "girl of your dreams": "Girl of Your Dreams",
+        "Like A Girl": "Like a Girl"
     },
     "eminem": {
         "trouble": "Trouble"
@@ -362,6 +373,9 @@
     "fennesz": {
         "liminality": "Liminality",
         "paroles": "Paroles"
+    },
+    "fetty wap": {
+        "tRaP luV": "Trap Luv"
     },
     "fex": {
         "Subways of your Mind": "Subways of Your Mind"
@@ -407,6 +421,7 @@
         "NIGHTS LIKE THIS": "Nights Like This",
         "ONE BIG FAMILY": "One Big Family",
         "OUT OF MY HANDS": "Out Of My Hands",
+        "RADIO": "Radio",
         "RUNNIN OUTTA TIME": "Runnin Outta Time",
         "SEEN IT ALL": "Seen it All",
         "SLIMED IN": "Slimed In",
@@ -483,6 +498,14 @@
         "Shine The Light Down": "Shine the Light Down",
         "Thick And Thin": "Thick and Thin",
         "Underneath The Flames": "Underneath the Flames"
+    },
+    "hande yener": {
+        "Apayri": "Apayrı",
+        "Aşkin Gücü": "Aşkın Gücü",
+        "Bunun Adi Ayrilik": "Bunun Adı Ayrılık",
+        "Haykırdım seni": "Haykırdım Seni",
+        "Kibir (Yanmam Lazim)": "Kibir (Yanmam Lazım)",
+        "Yalanin Batsin": "Yalanın Batsın"
     },
     "hans gruber and the die hards": {
         "Hans Gruber and The Die Hards": "Hans Gruber and the Die Hards",
@@ -738,8 +761,17 @@
         "Until It Breaks": "UNTIL IT BREAKS",
         "Victimized": "VICTIMIZED"
     },
+    "little dragon": {
+        "After The Rain": "After the Rain",
+        "Place To Belong": "Place to Belong"
+    },
     "logic": {
         "catch me if you can": "Catch Me If You Can"
+    },
+    "los delinqüentes": {
+        "De Los MatoRRaLeS": "De los Matorrales",
+        "Los delinqüentes y la banda del ratón": "Los Delinqüentes y la Banda del Ratón",
+        "Telescopio cósmico": "Telescopio Cósmico"
     },
     "lucy bedroque": {
         "unmusique": "Unmusique"
@@ -775,6 +807,9 @@
         "Make You Mine": "make you mine",
         "nOthIng at All": "nothing at all"
     },
+    "man with a mission": {
+        "Don't lose yourself": "DON'T LOSE YOURSELF"
+    },
     "manarem": {
         "Movmënt": "MOVMËNT"
     },
@@ -791,6 +826,11 @@
         "Note To Self": "Note to Self",
         "TIMELINE": "Timeline"
     },
+    "mitski": {
+        "I'll Change For You": "I'll Change for You",
+        "In A Lake": "In a Lake",
+        "Instead Of Here": "Instead of Here"
+    },
     "moodring": {
         "Death Fetish": "death fetish",
         "masochist machine": "Masochist Machine"
@@ -805,6 +845,9 @@
         "make-uP is a liE": "Make-up is a Lie",
         "you're right, it's tiME": "You're Right, It's Time",
         "zoom zoOM tHE little bOy": "Zoom Zoom the Little Boy"
+    },
+    "muddy waters": {
+        "I'M Ready": "I'm Ready"
     },
     "my bloody valentine": {
         "Blown a Wish": "blown a wish",
@@ -1070,6 +1113,9 @@
     },
     "robbie nevil": {
         "The Best Of Robbie Neville": "The Best Of Robbie Nevil"
+    },
+    "robyn": {
+        "Don't Stop The Music": "Don't Stop the Music"
     },
     "roro": {
         "hot hits": "Hot Hits"
