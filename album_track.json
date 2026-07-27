@@ -1,5 +1,5 @@
 {
-    "version": "2026.0706",
+    "version": "2026.0726",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -10,7 +10,7 @@
     },
     "2hollis": {
         "Afraid (feat. Nate Sib)": "afraid (feat. nate sib)",
-        "IM PLAYIN MINECRAFT ITS 2AM": "im playing minecraft its 2am",
+        "IM PLAYIN MINECRAFT ITS 2AM": "im playin minecraft its 2am",
         "TEENAGE SOLDIER": "teenage soldier"
     },
     "621 gecs": {
@@ -65,6 +65,9 @@
         "The Greater Of Two Evils": "The Greater of Two Evils",
         "Think About An End": "Think About an End",
         "We've Come For You All": "We've Come for You All"
+    },
+    "artms": {
+        "<BORN STUNNER>": "<Born Stunner>"
     },
     "a$ap rocky": {
         "Interrogation (Skit)": "INTERROGATION (SKIT)",
@@ -203,6 +206,9 @@
     "chicago": {
         "25 Or 6 To 4": "25 or 6 to 4"
     },
+    "chivas": {
+        "deathcore": "Deathcore"
+    },
     "cky": {
         "Attached At The Hip": "Attached at the Hip",
         "Disengage The Simulator": "Disengage the Simulator",
@@ -313,6 +319,9 @@
     "descendents": {
         "All": "ALL",
         "All-O-Gistics": "ALL-O-Gistics"
+    },
+    "don toliver": {
+        "Octane": "OCTANE"
     },
     "donald fagen": {
         "Mary Shut The Garden Door": "Mary Shut the Garden Door",
@@ -487,6 +496,9 @@
     "goreshit": {
         "Glitch obsessional": "glitch obsessional"
     },
+    "grace abrams": {
+        "bRoKe My hEArt": "Broke My Heart"
+    },
     "h2o": {
         "Cats And Dogs": "Cats and Dogs",
         "Don't forget your Roots": "Don't Forget Your Roots",
@@ -541,11 +553,17 @@
         "When The Ghouls Feed": "When the Ghouls Feed",
         "Where Are The Demons": "Where Are the Demons"
     },
+    "i-dle": {
+        "crow": "Crow"
+    },
     "idolish7": {
         "RESTART POINTER": "RESTART POiNTER"
     },
     "ifeye": {
         "SWEET TANG": "sweet tang"
+    },
+    "illit": {
+        "IT'S ME": "It's Me"
     },
     "immenence": {
         "heaven shall burn": "Heaven Shall Burn"
@@ -676,7 +694,8 @@
         "Leather Jacket": "leather jacket",
         "Mewtwo": "mewtwo",
         "MORE CHAOS": "more chaos",
-        "Overseas": "overseas"
+        "Overseas": "overseas",
+        "Xperiment": "xperiment"
     },
     "Kevin Atwater": {
         "achilles": "Achilles"
@@ -684,9 +703,15 @@
     "kevinkempt": {
         "Keep Going": "KEEP GOING"
     },
+    "kichi": {
+        "My addiction": "My Addiction"
+    },
     "king crimson": {
         "Epitaph - Including \"March For No Reason\" And \"Tomorrow And Tomorrow\"": "Epitaph - Including \"March for No Reason\" and \"Tomorrow and Tomorrow\"",
         "Moonchild - Including \"The Dream\" And \"The Illusion\"": "Moonchild - Including \"The Dream\" and \"The Illusion\""
+    },
+    "king glizzard & the lizard wizard": {
+        "Alien metal": "Alien Metal"
     },
     "kittydog": {
         "A World": "a world",
@@ -822,6 +847,9 @@
     "mf doom": {
         "that’s that": "That’s That"
     },
+    "midwxst": {
+        "Solitude In Silence": "SOLITUDE IN SILENCE"
+    },
     "mild high club": {
         "Note To Self": "Note to Self",
         "TIMELINE": "Timeline"
@@ -878,6 +906,10 @@
     },
     "nelly furtado": {
         "Loose (expanded edition)": "Loose (Expanded Edition)"
+    },
+    "nettspend": {
+        "BAD ASS F*CKING KID (SESSIONS)": "BAD ASS F*CKING KID (Sessions)",
+        "We Not Like You": "We not like you"
     },
     "ninajirachi": {
         "Girl EDM": "girl EDM",
@@ -1146,6 +1178,9 @@
     },
     "sidewalks and skeletons": {
         "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
+    },
+    "slayr": {
+        "Avant Nova": "AVANT NOVA"
     },
     "slayyyter": {
         "bRokE BitCH fRee$TyLE - sINgLe": "BROKE BITCH FREE$TYLE - Single"
@@ -1573,7 +1608,9 @@
         "Pray For Paris": "Pray for Paris"
     },
     "wilco": {
+        "A Ghost is Born": "A Ghost Is Born",
         "summerteeth": "Summerteeth"
+
     },
     "will haven": {
         "asking": "Asking",
