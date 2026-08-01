@@ -1,5 +1,5 @@
 {
-    "version": "2026.0726",
+    "version": "2026.0801",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -913,8 +913,12 @@
     },
     "ninajirachi": {
         "Girl EDM": "girl EDM",
-        "Hand On My Heart": "Hand on my Heart"
+        "Hand On My Heart": "Hand on my Heart",
+		"WANNACRY": "WannaCry"
     },
+	"ninajirachi & porter robinson": {
+		"wannacry": "WannaCry"
+	},
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
         "about a girl - live in los angeles, great western forum - december 30, 1993": "About A Girl - Live in Los Angeles, Great Western Forum - December 30, 1993",
@@ -1551,6 +1555,9 @@
         "Crescent Rise": "Crescent rise",
         "In the Meantime": "In the meantime"
     },
+	"triples": {
+		"DIMENSION": "Dimension"
+	},
     "twenty one pilots": {
         "drag pAth": "Drag Path"
     },
