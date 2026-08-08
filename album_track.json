@@ -1,5 +1,5 @@
 {
-    "version": "2026.0802",
+    "version": "2026.0807",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -196,6 +196,7 @@
         "faster than snakes with a ball and a chain": "Faster Than Snakes with a Ball and a Chain"
     },
     "carly rae jepsen": {
+        "Don’t Leave Me On The Dance Floor": "Don’t Leave Me on the Dance Floor",
         "I Didn't Just Come Here to Dance": "I Didn't Just Come Here To Dance",
         "Making the Most of the Night": "Making The Most Of The Night",
         "Never Get to Hold You": "Never Get To Hold You",
@@ -640,8 +641,14 @@
     "jid": {
         "glOry": "Glory"
     },
+    "jigitz": {
+        "50 Ballerinas": "50 ballerinas"
+    },
     "jim noir": {
         "Tower Of Love": "Tower of Love"
+    },
+    "jhariah": {
+        "Fire4Fun": "FIRE4FUN"
     },
     "juice wrld": {
         "Armed and Dangerous": "Armed And Dangerous",
@@ -856,7 +863,16 @@
         "that’s that": "That’s That"
     },
     "midwxst": {
-        "Solitude In Silence": "SOLITUDE IN SILENCE"
+        "Cheetah Print": "CHEETAH PRINT",
+        "come & go": "COME & GO",
+        "Don't Trust": "DON'T TRUST",
+        "For Real": "FOR REAL",
+        "hate ur face": "HATE UR FACE",
+        "know it all": "KNOW IT ALL",
+        "Nauseous": "NAUSEOUS",
+        "Profile": "PROFILE",
+        "Solitude In Silence": "SOLITUDE IN SILENCE",
+        "your soul": "YOUR SOUL"
     },
     "mild high club": {
         "Note To Self": "Note to Self",
