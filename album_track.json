@@ -1,5 +1,5 @@
 {
-    "version": "2026.0807",
+    "version": "2026.0815",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -1208,7 +1208,11 @@
         "goth (slowed + reverb)": "Goth (Slowed + Reverb)"
     },
     "slayr": {
-        "Avant Nova": "AVANT NOVA"
+        "Avant Nova": "AVANT NOVA",
+		"Raise My Voice": "raise my voice",
+		"I Got Taste": "i got taste",
+		"Nova": "nova",
+		"Keep Me Going (BIRDBRAIN)": "keep me going (BIRDBRAIN)"
     },
     "slayyyter": {
 		"BRAND NEW CHANEL$": "brand new chanel$",
