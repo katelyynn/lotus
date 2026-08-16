@@ -178,6 +178,7 @@
     },
     "brakence": {
         "Cut You Off": "cut you off",
+        "Death Roll": "death rolL",
         "Drank 3 of My Parents' Craft Beers To Make Eye Contact With You (feat. Login)": "drank 3 of my parents' craft beers to make eye contact with you (feat. login)",
         "Hypochondriac (Demo)": "hypochondriac (demo)",
         "hypochondriac (sessions)": "hypochondriac (Sessions)",
@@ -217,6 +218,10 @@
     },
     "chivas": {
         "deathcore": "Deathcore"
+    },
+    "chuu": {
+        "heart tea bag": "Heart Tea Bag",
+        "limoncello": "Limoncello"
     },
     "cky": {
         "Attached At The Hip": "Attached at the Hip",
@@ -386,6 +391,7 @@
     "femtanyl": {
         "body the pistol": "BODY THE PISTOL",
         "magfest": "MAGFEST",
+        "Weightless!": "WEIGHTLESS!",
         "Worldwid3": "WORLDWID3"
     },
     "fennesz": {
@@ -1351,6 +1357,9 @@
         "Me and my horses": "Me And My Horses",
         "My lover's on the pier": "My Lover's On The Pier",
         "Nobody told me": "Nobody Told Me"
+    },
+    "tame impala": {
+        "Innerspeaker": "InnerSpeaker"
     },
     "taylor swift": {
         "All of the Girls You Loved Before": "All Of The Girls You Loved Before",
