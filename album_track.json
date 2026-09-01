@@ -1,5 +1,5 @@
 {
-    "version": "2026.0820",
+    "version": "2026.0901",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -15,6 +15,11 @@
     },
     "621 gecs": {
         "Femboifoxxx": "femboifoxxx"
+    },
+    "a tribe called quest": {
+        "Description Of A Fool": "Description of a Fool",
+        "Luck Of Lucien": "Luck of Lucien",
+        "Rhythm (Devoted To The Art Of Moving Butts)": "Rhythm (Devoted to the Art of Moving Butts"
     },
     "afi": {
         "Decemberunderground": "DECEMBERUNDERGROUND",
@@ -147,6 +152,9 @@
         "Hit Me Hard and Soft": "HIT ME HARD AND SOFT",
         "My Future": "my future",
         "When I Was Older (Music Inspired by the Movie Roma)": "WHEN I WAS OLDER (Music Inspired by the Movie ROMA)"
+    },
+    "black country, new road": {
+        "The Place Where He Inserted The Blade": "The Place Where He Inserted the Blade"
     },
     "bladee": {
         "COLD VISIONS": "Cold Visions",
@@ -388,6 +396,9 @@
         "The Drug In Me Is You": "The Drug in Me Is You",
         "Zombified": "ZOMBIFIED"
     },
+    "fall out boy": {
+        "Folie à deux": "Folie à Deux"
+    },
     "femtanyl": {
         "body the pistol": "BODY THE PISTOL",
         "magfest": "MAGFEST",
@@ -454,6 +465,10 @@
     },
     "gary numan": {
         "intruder": "Intruder"
+    },
+    "gentle giant": {
+        "No God's A Man": "No God's a Man",
+        "The Power And The Glory": "The Power and the Glory"
     },
     "georg friedrich händel": {
         "HANDEL: Messiah": "Handel: Messiah"
@@ -570,6 +585,9 @@
         "Through The Gates (They Come For Me)": "Through the Gates (They Come for Me)",
         "When The Ghouls Feed": "When the Ghouls Feed",
         "Where Are The Demons": "Where Are the Demons"
+    },
+    "honeydip": {
+        "Portable Audio Science": "portable audio science"
     },
     "i-dle": {
         "crow": "Crow"
@@ -779,6 +797,9 @@
     "lady gaga, ariana grande": {
         "Rain on Me": "Rain On Me"
     },
+    "last days of humanity": {
+        "Analyzing the clinical adnormalities of rigor mortis": "Analyzing the Clinical Adnormalities of Rigor Mortis"
+    },
     "leroy": {
         "dariacore": "Dariacore"
     },
@@ -852,6 +873,7 @@
         "cOmPlExIty": "complexity",
         "hEAlThy haBIt": "healthy habit",
         "Locket": "locket",
+        "Locket DELUXE": "locket deluxe",
         "lOVergIrl": "lovergirl",
         "Make You Mine": "make you mine",
         "nOthIng at All": "nothing at all"
@@ -936,6 +958,9 @@
     },
     "nathalie cardone": {
         "Working class": "Working Class"
+    },
+    "neil young": {
+        "Cortez The Killer": "Cortez the Killer"
     },
     "nelly furtado": {
         "Loose (expanded edition)": "Loose (Expanded Edition)"
@@ -1132,6 +1157,7 @@
         "being yourself": "BEING YOURSELF",
         "BORN YESTERDAY": "born yesterday",
         "dancing without moving": "DANCING WITHOUT MOVING",
+        "dark magic": "Dark Magic",
         "Godstained": "GODSTAINED",
         "Gone Gone": "gone gone",
         "Guess Who?": "GUESS WHO?",
