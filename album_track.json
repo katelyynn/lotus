@@ -1,5 +1,5 @@
 {
-    "version": "2026.0901",
+    "version": "2026.0905",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -21,6 +21,14 @@
         "Luck Of Lucien": "Luck of Lucien",
         "Rhythm (Devoted To The Art Of Moving Butts)": "Rhythm (Devoted to the Art of Moving Butts"
     },
+	"adéla": {
+		"FANTASIZE": "Fantasize",
+		"HITACHI": "Hitachi",
+		"I'M THE MAN": "I'm The Man",
+		"NICOLE KIDMAN": "Nicole Kidman",
+		"STARVING ARTIST": "Starving Artist",
+		"THERAPY": "Therapy"
+	},
     "afi": {
         "Decemberunderground": "DECEMBERUNDERGROUND",
         "Silver Bleeds The Black Sun...": "Silver Bleeds the Black Sun..."
@@ -146,7 +154,8 @@
         "Steven's Last Night In Town": "Steven's Last Night in Town"
     },
     "beyoncé": {
-        "Beyoncé": "BEYONCÉ"
+        "Beyoncé": "BEYONCÉ",
+		"B'Day (20th Anniversary Deluxe Edition)": "B'DAY (20th ANNIVERSARY DELUXE EDITION)"
     },
     "billie eilish": {
         "Hit Me Hard and Soft": "HIT ME HARD AND SOFT",
@@ -967,6 +976,7 @@
     },
     "nettspend": {
         "BAD ASS F*CKING KID (SESSIONS)": "BAD ASS F*CKING KID (Sessions)",
+		"Early Life Crisis": "early life crisis",
         "We Not Like You": "We not like you"
     },
     "ninajirachi": {
