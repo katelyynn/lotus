@@ -1,6 +1,6 @@
 {
     "name": "@yuzu/lotus",
     "description": "a repository of capitalisation corrections for last.fm projects",
-    "version": "2026.76.5",
+    "version": "2026.76.6",
     "exports": "./index.ts"
 }
