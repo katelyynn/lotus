@@ -1,5 +1,5 @@
 {
-    "version": "2026.0920",
+    "version": "2026.1001",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -180,6 +180,9 @@
     "blues brothers": {
         "Briefcase Full Of Blues": "Briefcase Full of Blues"
     },
+    "Bob Dylan": {
+        "The Man In Me": "The Man in Me"
+    },
     "body count": {
         "COMFORTABLY NUMB": "Comfortably Numb",
         "FUCK WHAT YOU HEARD": "Fuck What You Heard",
@@ -201,6 +204,8 @@
         "Hypochondriac (Demo)": "hypochondriac (demo)",
         "hypochondriac (sessions)": "hypochondriac (Sessions)",
         "Introvert": "introvert",
+        "Jester": "jesteR",
+        "marionette": "marionettE",
         "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all"
     },
     "bts": {
@@ -458,6 +463,13 @@
     "frontierer": {
         "The molten larva": "The Molten Larva"
     },
+    "fun 'lovin' criminals": {
+        "Bombin' The L": "Bombin' the L",
+        "Crime And Punishment": "Crime and Punishment",
+        "King Of New York": "King of New York",
+        "The Grave And The Constant": "The Grave and the Constant",
+        "We Have All The Time In The World": "We Have All the Time in the World"
+    },
     "future": {
         "AIN'T NO LOVE": "Ain't No Love",
         "BEAT IT": "Beat It",
@@ -504,6 +516,7 @@
         "may it never falter (sessions)": "May It Never Falter (Sessions)",
         "Minnesota is a place that exists (V2)": "minnesota is a place that exists (v2)",
         "Nobodys fault / Accept my own": "Nobodys Fault / Accept My Own",
+        "nothing is real": "Nothing Is Real",
         "Prick (feat. Midwxst)": "prick (feat. midwxst)",
         "Que Onda": "que onda",
         "Shoreditch (Bsun N Thr6x Remix)": "shoreditch (bsun n thr6x remix)",
@@ -997,17 +1010,19 @@
     },
     "nettspend": {
         "BAD ASS F*CKING KID (SESSIONS)": "BAD ASS F*CKING KID (Sessions)",
-		"Early Life Crisis": "early life crisis",
+        "Early Life Crisis": "early life crisis",
+        "nothing like uuu": "Nothing like uuu",
+        "nothing like uuu (v1)": "Nothing Like uuu (v1)",
         "We Not Like You": "We not like you"
     },
     "ninajirachi": {
         "Girl EDM": "girl EDM",
         "Hand On My Heart": "Hand on my Heart",
-		"WANNACRY": "WannaCry"
+        "WANNACRY": "WannaCry"
     },
-	"ninajirachi & porter robinson": {
-		"wannacry": "WannaCry"
-	},
+    "ninajirachi & porter robinson": {
+        "wannacry": "WannaCry"
+    },
     "nirvana": {
         "about a girl - live": "About A Girl - Live",
         "about a girl - live in los angeles, great western forum - december 30, 1993": "About A Girl - Live in Los Angeles, Great Western Forum - December 30, 1993",
@@ -1184,16 +1199,23 @@
     "psycho-frame": {
         "Salvation Laughs in the Face of a Grieving Mother": "SALVATION LAUGHS IN THE FACE OF A GRIEVING MOTHER"
     },
-    "quadeca": {
+    
+    "quadeca": { 
+        "Baby Steps": "Baby steps", 
         "being yourself": "BEING YOURSELF",
         "BORN YESTERDAY": "born yesterday",
         "dancing without moving": "DANCING WITHOUT MOVING",
-        "dark magic": "Dark Magic",
+        "dark magic": "Dark magic",
         "Godstained": "GODSTAINED",
         "Gone Gone": "gone gone",
         "Guess Who?": "GUESS WHO?",
         "i didn't mean to haunt you": "I Didn't Mean To Haunt You",
         "I Make It Look Effortless": "I MAKE IT LOOK EFFORTLESS",
+        "Illusion of Choice": "Illusion of choice",
+        "In Another Life...": "In another life...",
+        "It Goes Like This": "It goes like this",
+        "life 1": "Life 1",
+        "Like You Always Do": "Like you always do",
         "no questions asked": "NO QUESTIONS ASKED",
         "Ruin My Life": "RUIN MY LIFE",
         "Scrapyard": "SCRAPYARD",
@@ -1242,6 +1264,9 @@
     },
     "robyn": {
         "Don't Stop The Music": "Don't Stop the Music"
+    },
+    "roc marciano": {
+        "Bruh man": "Bruh Man"
     },
     "roro": {
         "hot hits": "Hot Hits"
