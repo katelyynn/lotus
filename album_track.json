@@ -1,5 +1,5 @@
 {
-    "version": "2026.1001",
+    "version": "2026.1017",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -679,6 +679,10 @@
     "jae stephens": {
         "Total Sellout": "TOTAL SELLOUT"
     },
+    "jane remover": {
+        "INDIE ROCK": "Indie Rock",
+        "Indie rock 2": "Indie Rock 2"
+    },
     "jay-z": {
         "Dirt off Your Shoulder": "Dirt Off Your Shoulder"
     },
@@ -751,6 +755,9 @@
     },
     "kardashev": {
         "Snow-sleep": "Snow-Sleep"
+    },
+    "keigo hoashi": {
+        "A BEAUTIFUL SONG": "A Beautiful Song"
     },
     "kemetic just": {
         "Highways and Mindwaves": "Highways And Mindwaves",
@@ -837,6 +844,9 @@
     },
     "last days of humanity": {
         "Analyzing the clinical adnormalities of rigor mortis": "Analyzing the Clinical Adnormalities of Rigor Mortis"
+    },
+    "lena raine": {
+        "wavedash.Ppt": "wavedash.ppt"
     },
     "leroy": {
         "dariacore": "Dariacore"
@@ -1652,9 +1662,11 @@
     },
     "the weeknd": {
         "Baptized in Fear": "Baptized In Fear",
+        "Drunk In Love (Remix)": "Drunk in Love (Remix)",
         "Given Up on Me": "Given Up On Me",
         "I Can't Wait to Get There": "I Can't Wait To Get There",
         "One of the Girls (with JENNIE, Lily Rose Depp)": "One Of The Girls (with JENNIE, Lily Rose Depp)",
+        "Out Of Time - Live": "Out of Time - Live",        
         "Repeat After Me (interlude)": "Repeat After Me (Interlude)",
         "TIMELESS (feat. Playboi Carti)": "Timeless (feat. Playboi Carti)"
     },
