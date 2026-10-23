@@ -206,8 +206,9 @@
         "Introvert": "introvert",
         "Jester": "jesteR",
         "marionette": "marionettE",
-        "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all"
-    },
+        "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and It doesn't matter at all": "tonight's no good how about wednesday oh you're in dallas on wednesday oh ok well then let's just not see each other for 8 months and it doesn't matter at all",
+    	"Wishing Well": "wishing well"
+	},
     "bts": {
         "Normal": "NORMAL",
         "Swim": "SWIM"
