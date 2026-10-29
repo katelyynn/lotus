@@ -34,3 +34,11 @@ body:
       placeholder: "e.g. https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
     validations:
       required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Why is this the correct capitalisation?
+      placeholder: "e.g. Spotify and her official store both list \"Sabrina Carpenter\", so the \"sAbRina cArpenter\" casing is incorrect"
+    validations:
+      required: false
