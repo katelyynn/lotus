@@ -34,3 +34,11 @@ body:
       placeholder: "e.g. https://open.spotify.com/album/14SJbJMseOJ2W8HlWLwNgJ"
     validations:
       required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Why is this the correct capitalisation?
+      placeholder: "e.g. Spotify and Bandcamp both list \"my anti-aircraft friend\", so the \"mY aNtI-aIrCrAfT fRiEnD\" casing is incorrect"
+    validations:
+      required: false

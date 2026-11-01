@@ -38,3 +38,11 @@ body:
       placeholder: "e.g. https://open.spotify.com/album/08MsbKas4UJKhbJlAnAyfB"
     validations:
       required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Reasoning
+      description: Why are these the correct capitalisations?
+      placeholder: "e.g. all tracks are listed in title case on Spotify and their own sites"
+    validations:
+      required: false
