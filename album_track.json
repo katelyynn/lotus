@@ -1,5 +1,5 @@
 {
-    "version": "2026.1030",
+    "version": "2026.1105",
     "100 gecs": {
         "ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]": "ringtone (Remix) [feat. Charli xcx, Rico Nasty, Kero Kero Bonito]"
     },
@@ -172,6 +172,11 @@
         "Drama (feat. Charli XCX)": "Drama (feat. Charli xcx)",
         "Don't Do Drugz": "DON'T DO DRUGZ",
         "OTHERSIDE (FeaT. SICKBOYRARI)": "OTHERSIDE (feat. Sickboyrari)"
+    },
+    "bleood": {
+        "how bleood stole xmas": "how bleood stole Xmas",
+        "kill your idols": "KILL YOUR IDOLS",
+        "protagonist": "PROTAGONIST"
     },
     "bloodclot": {
         "Asleep At The Wheel": "Asleep at the Wheel",
@@ -405,6 +410,7 @@
         "DOA (sessions)": "DOA (Sessions)",
         "Search & Destroy": "search & destroy",
         "Song for when the bar closes": "song for when the bar closes",
+        "Tengo algo para ti": "Tengo Algo Para Ti",
         "Throw it up": "throw it up"
     },
     "erra": {
@@ -697,9 +703,13 @@
     },
     "jane remover": {
         "Beauty sleep": "Beauty Sleep",
+        "can you tell? (Live Version)": "can you tell? (live version)",
+        "champ (Demo)": "champ (demo)",
+        "Even More Pretending": "even more pretending",
         "INDIE ROCK": "Indie rock",
         "How To Teleport": "How to Teleport",
-        "it's a vicious cycle": "It's A Vicious Cycle"
+        "it's a vicious cycle": "It's A Vicious Cycle",
+        "let's go home (Demo)": "let's go home (demo)"
     },
     "jay-z": {
         "Dirt off Your Shoulder": "Dirt Off Your Shoulder"
@@ -1153,6 +1163,7 @@
         "woman (in the beginning)": "Woman (In The Beginning)"
     },
     "osamason": {
+        "Jump out": "Jump Out",
         "the whole world is free": "The Whole World Is Free"
     },
     "outkast": {
@@ -1876,6 +1887,9 @@
         "We're Not The Same": "We're Not the Same",
         "You're A Star": "You're a Star",
         "You're The Coolest": "You're the Coolest"
+    },
+    "writtyn": {
+        "The Troubles (Gay Remix)": "The Troubles (gay remix)"
     },
     "xxxtentacion": {
         "Attention!": "ATTENTION!",
